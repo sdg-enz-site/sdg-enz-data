@@ -28,8 +28,20 @@
             "title": "Region"
           },
           {
+            "name": "grupp.armut",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kinderarmut",
+                "Jugendarmut",
+                ""
+              ]
+            },
+            "title": "grupp.armut"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

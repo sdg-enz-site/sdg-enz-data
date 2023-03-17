@@ -26,8 +26,19 @@
             }
           },
           {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

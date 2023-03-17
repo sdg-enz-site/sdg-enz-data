@@ -26,8 +26,19 @@
             }
           },
           {
+            "name": "grupp.armut",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kinderarmut",
+                "Jugendarmut",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
