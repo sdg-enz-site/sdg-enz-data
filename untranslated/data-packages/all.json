@@ -208,15 +208,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Alkoholbedingte Krankhausaufenthalte - Mädchen",
+                "Alkoholbedingte Krankhausaufenthalte - Jungen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -242,18 +242,18 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.gewicht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Untergewicht [%]",
+                "Normalgewicht [%]",
+                "Übergewicht [%]",
                 ""
               ]
             }
@@ -1044,15 +1044,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Vorzeitige Sterblichkeit - Frauen",
+                "Vorzeitige Sterblichkeit - Männer",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1220,15 +1220,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Grundsicherung im Alter (SGB XII-Quote)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1738,7 +1737,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             }
@@ -1748,8 +1746,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Ambulante Pflegedienste im Enzkreis",
+                "Ambulante Pflegedienste Stadt Pforzheim (auch im Enzkreis tätig)",
+                "Anerkannte Unterstützungsangebote nach UstA-VO BW",
+                "Beratungsangebote",
                 ""
               ]
             }
@@ -1964,12 +1964,12 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betrieb",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Konventionell bewirtschaftete Fläche [%]",
+                "Ökologisch bewirtschaftete Fläche [%]",
                 ""
               ]
             }
@@ -3097,12 +3097,11 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.stickstoffüberschuss",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Stickstoffüberschuss aus der Landwirtschaft [kg N/ha]",
                 ""
               ]
             }
@@ -3223,6 +3222,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Stadt Pforzheim",
                 "Land BW",
                 ""
               ]
@@ -3233,8 +3233,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Krankenhausbetten je 100 tsd. Einwohner/-innen",
                 ""
               ]
             }
@@ -3267,7 +3266,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             }
@@ -3277,8 +3275,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Personen mit IfSG-Meldung zu einer Maserninfektion",
                 ""
               ]
             }
@@ -3805,15 +3802,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Sterbefälle je 1.000 Einwohner/-innen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

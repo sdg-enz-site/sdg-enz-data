@@ -26,12 +26,11 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.stickstoffüberschuss",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Stickstoffüberschuss aus der Landwirtschaft [kg N/ha]",
                 ""
               ]
             }

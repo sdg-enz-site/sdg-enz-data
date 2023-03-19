@@ -21,23 +21,23 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.gewicht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Untergewicht [%]",
+                "Normalgewicht [%]",
+                "Übergewicht [%]",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "gruppe.gewicht"
           },
           {
             "name": "Value",

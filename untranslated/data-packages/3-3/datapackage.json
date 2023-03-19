@@ -30,15 +30,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Vorzeitige Sterblichkeit - Frauen",
+                "Vorzeitige Sterblichkeit - Männer",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

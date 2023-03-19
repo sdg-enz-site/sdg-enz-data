@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             }
@@ -30,8 +29,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Ambulante Pflegedienste im Enzkreis",
+                "Ambulante Pflegedienste Stadt Pforzheim (auch im Enzkreis tätig)",
+                "Anerkannte Unterstützungsangebote nach UstA-VO BW",
+                "Beratungsangebote",
                 ""
               ]
             }

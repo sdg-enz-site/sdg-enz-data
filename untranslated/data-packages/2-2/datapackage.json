@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betrieb",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Konventionell bewirtschaftete Fläche [%]",
+                "Ökologisch bewirtschaftete Fläche [%]",
                 ""
               ]
             }
