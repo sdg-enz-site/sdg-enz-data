@@ -1,61 +1,25 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2016,Enzkreis,Schulabgänger mit Hauptschulabschluss,16
+2017,Enzkreis,Schulabgänger mit Hauptschulabschluss,11
+2018,Enzkreis,Schulabgänger mit Hauptschulabschluss,15
+2019,Enzkreis,Schulabgänger mit Hauptschulabschluss,14
+2016,Enzkreis,Schulabgänger mit mittlerem Abschluss,58
+2017,Enzkreis,Schulabgänger mit mittlerem Abschluss,57
+2018,Enzkreis,Schulabgänger mit mittlerem Abschluss,55
+2019,Enzkreis,Schulabgänger mit mittlerem Abschluss,56
+2016,Enzkreis,Schulabgänger mit Hochschulreife,22
+2017,Enzkreis,Schulabgänger mit Hochschulreife,22
+2018,Enzkreis,Schulabgänger mit Hochschulreife,22
+2019,Enzkreis,Schulabgänger mit Hochschulreife,23
+2016,Land BW,Schulabgänger mit Hauptschulabschluss,18
+2017,Land BW,Schulabgänger mit Hauptschulabschluss,16
+2018,Land BW,Schulabgänger mit Hauptschulabschluss,16
+2019,Land BW,Schulabgänger mit Hauptschulabschluss,16
+2016,Land BW,Schulabgänger mit mittlerem Abschluss,47
+2017,Land BW,Schulabgänger mit mittlerem Abschluss,47
+2018,Land BW,Schulabgänger mit mittlerem Abschluss,47
+2019,Land BW,Schulabgänger mit mittlerem Abschluss,48
+2016,Land BW,Schulabgänger mit Hochschulreife,29
+2017,Land BW,Schulabgänger mit Hochschulreife,30
+2018,Land BW,Schulabgänger mit Hochschulreife,31
+2019,Land BW,Schulabgänger mit Hochschulreife,30

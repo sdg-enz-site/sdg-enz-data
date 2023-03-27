@@ -32,8 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Schulabgänger mit Hauptschulabschluss",
+                "Schulabgänger mit mittlerem Abschluss",
+                "Schulabgänger mit Hochschulreife",
                 ""
               ]
             },

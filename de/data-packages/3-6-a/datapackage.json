@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -32,8 +31,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Pflegegeld",
+                "ambulante Pflege",
+                "vollstat. Pflege (inkl. Kurzzeitpflege)",
+                "Pflegegrad 1: Entlastungsbeitrag",
                 ""
               ]
             },

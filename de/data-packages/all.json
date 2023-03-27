@@ -178,8 +178,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Schulabgänger mit Hauptschulabschluss",
+                "Schulabgänger mit mittlerem Abschluss",
+                "Schulabgänger mit Hochschulreife",
                 ""
               ]
             },
@@ -279,7 +280,7 @@
                 ""
               ]
             },
-            "title": "gruppe.gewicht"
+            "title": "Art der Fehlernährung"
           },
           {
             "name": "Value",
@@ -734,7 +735,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
@@ -743,7 +744,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -754,8 +754,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Diesel Pkw",
+                "Otto Pkw",
+                "Leichte Nutzfahrzeuge",
+                "Schwere Nutzfahrzeuge",
+                "Busse",
+                "Krafträder",
                 ""
               ]
             },
@@ -763,7 +767,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1366,7 +1370,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -1377,8 +1380,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Pflegegeld",
+                "ambulante Pflege",
+                "vollstat. Pflege (inkl. Kurzzeitpflege)",
+                "Pflegegrad 1: Entlastungsbeitrag",
                 ""
               ]
             },
@@ -1462,7 +1467,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -1473,8 +1477,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Abriebemissionen (Reifen, Bremsen)",
+                "Otto Pkw",
+                "Schwere Nutzfahrzeuge",
+                "Krafträder Enzkreis",
+                "Diesel Pkw",
+                "Leichte Nutzfahrzeuge",
+                "Busse",
                 ""
               ]
             },
@@ -1862,7 +1871,7 @@
                 ""
               ]
             },
-            "title": "grupp.armut"
+            "title": "Kinder / Jugendliche"
           },
           {
             "name": "Value",
@@ -2151,7 +2160,7 @@
                 ""
               ]
             },
-            "title": "gruppe.betrieb"
+            "title": "Art der Bewirtschaftung"
           },
           {
             "name": "Value",
@@ -2279,7 +2288,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -2290,8 +2298,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Männer",
+                "Frauen",
                 ""
               ]
             },
@@ -2615,7 +2623,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -2626,8 +2633,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Frauen",
+                "Männer",
                 ""
               ]
             },
@@ -3386,7 +3393,7 @@
                 ""
               ]
             },
-            "title": "gruppe.stickstoffüberschuss"
+            "title": "Stickstoffüberschuss"
           },
           {
             "name": "Value",
