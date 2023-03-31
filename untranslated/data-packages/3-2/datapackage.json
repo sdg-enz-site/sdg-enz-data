@@ -27,7 +27,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betten",
             "type": "string",
             "constraints": {
               "enum": [

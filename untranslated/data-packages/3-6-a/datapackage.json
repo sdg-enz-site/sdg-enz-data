@@ -25,14 +25,14 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.pflege",
             "type": "string",
             "constraints": {
               "enum": [
                 "Pflegegeld",
                 "ambulante Pflege",
                 "vollstat. Pflege (inkl. Kurzzeitpflege)",
-                "Pflegegrad 1: Entlastungsbeitrag",
+                "Pflegegrad 1 - Entlastungsbeitrag",
                 ""
               ]
             }

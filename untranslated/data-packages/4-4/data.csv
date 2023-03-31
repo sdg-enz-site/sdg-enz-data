@@ -1,61 +1,50 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,gruppe.sektor,gruppe.gesamt,Value
+2014,Industrie und Handel,,1703
+2015,Industrie und Handel,,1732
+2016,Industrie und Handel,,1712
+2017,Industrie und Handel,,1749
+2018,Industrie und Handel,,1830
+2019,Industrie und Handel,,1840
+2020,Industrie und Handel,,1706
+2014,Handwerk,,679
+2015,Handwerk,,666
+2016,Handwerk,,678
+2017,Handwerk,,640
+2018,Handwerk,,653
+2019,Handwerk,,667
+2020,Handwerk,,676
+2014,Landwirtschaft,,34
+2015,Landwirtschaft,,40
+2016,Landwirtschaft,,35
+2017,Landwirtschaft,,36
+2018,Landwirtschaft,,43
+2019,Landwirtschaft,,44
+2020,Landwirtschaft,,50
+2014,Öffentlicher Dienst,,50
+2015,Öffentlicher Dienst,,43
+2016,Öffentlicher Dienst,,49
+2017,Öffentlicher Dienst,,50
+2018,Öffentlicher Dienst,,55
+2019,Öffentlicher Dienst,,55
+2020,Öffentlicher Dienst,,53
+2014,Freie Berufe,,128
+2015,Freie Berufe,,130
+2016,Freie Berufe,,137
+2017,Freie Berufe,,149
+2018,Freie Berufe,,155
+2019,Freie Berufe,,143
+2020,Freie Berufe,,146
+2014,Hauswirtschaft,,5
+2015,Hauswirtschaft,,6
+2016,Hauswirtschaft,,6
+2017,Hauswirtschaft,,3
+2018,Hauswirtschaft,,2
+2019,Hauswirtschaft,,5
+2020,Hauswirtschaft,,6
+2014,,Gesamt,2599
+2015,,Gesamt,2617
+2016,,Gesamt,2617
+2017,,Gesamt,2627
+2018,,Gesamt,2738
+2019,,Gesamt,2754
+2020,,Gesamt,2637

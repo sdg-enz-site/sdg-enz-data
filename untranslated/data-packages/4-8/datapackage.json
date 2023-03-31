@@ -15,30 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "gruppe.schule",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Kooperationsquote Schule am Winterrain",
+                "Kooperationsquote Gustav-Heinemann-Schule",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

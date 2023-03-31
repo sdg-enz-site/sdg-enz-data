@@ -25,7 +25,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [

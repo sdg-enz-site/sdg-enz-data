@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -27,18 +27,18 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.pflege",
             "type": "string",
             "constraints": {
               "enum": [
                 "Pflegegeld",
                 "ambulante Pflege",
                 "vollstat. Pflege (inkl. Kurzzeitpflege)",
-                "Pflegegrad 1: Entlastungsbeitrag",
+                "Pflegegrad 1 - Entlastungsbeitrag",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Pflegebedürftigkeit"
           },
           {
             "name": "Value",

@@ -61,23 +61,26 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "gruppe.sektor",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Industrie und Handel",
+                "Handwerk",
+                "Landwirtschaft",
+                "Öffentlicher Dienst",
+                "Freie Berufe",
+                "Hauswirtschaft",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.gesamt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Gesamt",
                 ""
               ]
             }
@@ -160,7 +163,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.abschluss",
             "type": "string",
             "constraints": {
               "enum": [
@@ -205,7 +208,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -332,17 +335,6 @@
               "enum": [
                 "Enzkreis",
                 "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
                 ""
               ]
             }
@@ -557,17 +549,6 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -675,7 +656,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Region",
@@ -688,7 +669,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.emittenten",
             "type": "string",
             "constraints": {
               "enum": [
@@ -704,7 +685,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -1044,7 +1025,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1220,7 +1201,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.grund",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1262,14 +1243,14 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.pflege",
             "type": "string",
             "constraints": {
               "enum": [
                 "Pflegegeld",
                 "ambulante Pflege",
                 "vollstat. Pflege (inkl. Kurzzeitpflege)",
-                "Pflegegrad 1: Entlastungsbeitrag",
+                "Pflegegrad 1 - Entlastungsbeitrag",
                 ""
               ]
             }
@@ -1351,14 +1332,14 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.emittenten",
             "type": "string",
             "constraints": {
               "enum": [
                 "Abriebemissionen (Reifen, Bremsen)",
                 "Otto Pkw",
                 "Schwere Nutzfahrzeuge",
-                "Krafträder Enzkreis",
+                "Krafträder",
                 "Diesel Pkw",
                 "Leichte Nutzfahrzeuge",
                 "Busse",
@@ -1751,7 +1732,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.ambulant",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2104,7 +2085,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2313,6 +2294,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Betreuungsquote in %",
+                "Betreuungsumfang - Anteil in %",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -2324,19 +2316,20 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betreuung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "bis 25 h in Betreuung",
+                "25 bis 35 h in Betreuung",
+                "mehr als 35 h Betreuung",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2411,7 +2404,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2884,17 +2877,6 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }
@@ -2917,30 +2899,19 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "gruppe.schule",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Kooperationsquote Schule am Winterrain",
+                "Kooperationsquote Gustav-Heinemann-Schule",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -3236,7 +3207,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betten",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3278,7 +3249,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.masern",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3541,19 +3512,8 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -3805,7 +3765,7 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.sterbefälle",
             "type": "string",
             "constraints": {
               "enum": [

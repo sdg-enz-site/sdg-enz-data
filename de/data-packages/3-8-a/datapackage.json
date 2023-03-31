@@ -27,21 +27,21 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.emittenten",
             "type": "string",
             "constraints": {
               "enum": [
                 "Abriebemissionen (Reifen, Bremsen)",
                 "Otto Pkw",
                 "Schwere Nutzfahrzeuge",
-                "Krafträder Enzkreis",
+                "Krafträder",
                 "Diesel Pkw",
                 "Leichte Nutzfahrzeuge",
                 "Busse",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Emittenten"
           },
           {
             "name": "Value",

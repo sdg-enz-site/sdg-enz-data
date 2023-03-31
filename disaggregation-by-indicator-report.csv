@@ -1,7 +1,7 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1,Region,1
 #1-2-a,"Region, grupp.armut",2
-#1-2-b,"Region, gruppe.beschaeftigt",2
+#1-2-b,"Region, gruppe.grund",2
 #10-1,"Region, gruppe.beschaeftigt",2
 #10-2,"Region, gruppe.beschaeftigt",2
 #10-3,"Region, gruppe.beschaeftigt",2
@@ -40,24 +40,25 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1,"Region, gruppe.gewicht",2
 #2-2,"Region, gruppe.betrieb",2
 #2-3,"Region, gruppe.stickstoffüberschuss",2
-#3-2,"Region, gruppe.beschaeftigt",2
-#3-3,"Region, gruppe.beschaeftigt",2
-#3-4,"Region, gruppe.beschaeftigt",2
-#3-5-a,"Region, gruppe.beschaeftigt",2
-#3-5-b,"Region, gruppe.beschaeftigt",2
-#3-5-c,"Region, gruppe.beschaeftigt",2
-#3-6-a,"Region, gruppe.beschaeftigt",2
-#3-6-b,"Region, gruppe.beschaeftigt",2
-#3-7,"Region, gruppe.beschaeftigt",2
-#3-8-a,"Region, gruppe.beschaeftigt",2
-#3-8-b,"Region, gruppe.beschaeftigt",2
-#4-2,"Region, gruppe.beschaeftigt",2
-#4-3,"Region, gruppe.beschaeftigt",2
-#4-4,"Region, gruppe.beschaeftigt",2
-#4-5,"Region, gruppe.beschaeftigt",2
-#4-6,"Region, gruppe.beschaeftigt",2
-#4-7,"Region, gruppe.beschaeftigt",2
-#4-8,"Region, gruppe.beschaeftigt",2
+#3-2,"Region, gruppe.betten",2
+#3-3,"Region, gruppe.geschlecht",2
+#3-4,"Region, gruppe.geschlecht",2
+#3-5-a,"Region, gruppe.geschlecht",2
+#3-5-b,"Region, gruppe.geschlecht",2
+#3-5-c,"Region, gruppe.sterbefälle",2
+#3-6-a,"Region, gruppe.pflege",2
+#3-6-b,"Region, gruppe.ambulant",2
+#3-7,"Region, gruppe.masern",2
+#3-8-a,"Region, gruppe.emittenten",2
+#3-8-b,"Region, gruppe.emittenten",2
+#4-1-a,"Region, gruppe.betreuung",2
+#4-2,Region,1
+#4-3,"Region, gruppe.abschluss",2
+#4-4,"gruppe.sektor, gruppe.gesamt",2
+#4-5,Region,1
+#4-6,Region,1
+#4-7,Region,1
+#4-8,gruppe.schule,1
 #5-1,"Region, gruppe.beschaeftigt",2
 #5-2,"Region, gruppe.beschaeftigt",2
 #5-3,"Region, gruppe.beschaeftigt",2

@@ -16,28 +16,31 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "gruppe.sektor",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Industrie und Handel",
+                "Handwerk",
+                "Landwirtschaft",
+                "Öffentlicher Dienst",
+                "Freie Berufe",
+                "Hauswirtschaft",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Sektor"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.gesamt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Gesamt",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Gesamt"
           },
           {
             "name": "Value",
