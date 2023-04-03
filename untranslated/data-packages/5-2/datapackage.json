@@ -30,8 +30,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Medianeinkommen gesamt",
+                "Medianeinkommen - Männer",
+                "Medianeinkommen - Frauen",
+                "Verdienstabstand Frauen - Männer",
                 ""
               ]
             }

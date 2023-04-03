@@ -32,8 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Rel. Beschäftigungsquote bei Ausländer/-innen",
                 ""
               ]
             },
@@ -41,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

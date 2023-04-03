@@ -26,19 +26,18 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Erwerbsaufstocker",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Erwerbsaufstocker",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

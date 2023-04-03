@@ -26,19 +26,19 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Unternehmensinsolvenzen (absolut)",
+                "Unternehmensinsolvenzen (je 1000 Einwohner)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

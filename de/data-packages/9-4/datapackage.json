@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Stadt Pforzheim",
                 "Land BW",
                 ""
               ]
@@ -28,20 +29,19 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Hochqualifizierte",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Hochqualifizierte (am Arbeitsort)",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Hochqualifizierte"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

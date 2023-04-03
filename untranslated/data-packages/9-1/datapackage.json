@@ -20,25 +20,24 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Existenzgründungen",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Existenzgründungen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

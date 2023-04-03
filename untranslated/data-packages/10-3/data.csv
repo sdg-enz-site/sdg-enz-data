@@ -1,61 +1,25 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2009,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,178.3
+2010,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,356.2
+2011,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,277.0
+2012,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,312.6
+2013,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,197.3
+2014,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,236.3
+2015,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,223.5
+2016,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,269.2
+2017,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,395.4
+2018,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,408.5
+2019,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,320.7
+2020,Enzkreis,Rel. Schulabbrecherquote von Ausländern/-innen,302.5
+2009,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,237.2
+2010,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,230.1
+2011,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,232.9
+2012,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,283.9
+2013,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,220.6
+2014,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,223.1
+2015,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,208.8
+2016,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,238.8
+2017,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,304.6
+2018,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,387.4
+2019,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,367.2
+2020,Land BW,Rel. Schulabbrecherquote von Ausländern/-innen,399.4

@@ -28,20 +28,19 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Erwerbsaufstocker",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Erwerbsaufstocker",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Erwerbsaufstocker"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             }
@@ -30,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Männeranteil im Kreistag des Enzkreises",
+                "Frauenanteil im Kreistag des Enzkreises",
                 ""
               ]
             }

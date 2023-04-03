@@ -32,8 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "geringes HH-Nettoeinkommen",
+                "mittleres HH-Nettoeinkommen",
+                "hohes HH-Nettoeinkommen",
                 ""
               ]
             },

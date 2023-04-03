@@ -28,20 +28,19 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Beschäftigtenanteil",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Beschäftigtenanteil"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

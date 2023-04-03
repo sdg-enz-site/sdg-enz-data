@@ -21,23 +21,21 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Glasfaserversorgung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Hausanschlüsse und Vorstreckungen für Glasfaserversorgung",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Glasfaserversorgung"
           },
           {
             "name": "Value",

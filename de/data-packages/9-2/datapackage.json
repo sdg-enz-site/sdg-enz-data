@@ -28,20 +28,20 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Unternehmensinsolvenzen (absolut)",
+                "Unternehmensinsolvenzen (je 1000 Einwohner)",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

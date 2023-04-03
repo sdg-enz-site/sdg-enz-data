@@ -1,61 +1,27 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2007,Enzkreis,Bruttoinlandsprodukt,24012
+2008,Enzkreis,Bruttoinlandsprodukt,23802
+2009,Enzkreis,Bruttoinlandsprodukt,21234
+2010,Enzkreis,Bruttoinlandsprodukt,23379
+2011,Enzkreis,Bruttoinlandsprodukt,25790
+2012,Enzkreis,Bruttoinlandsprodukt,25845
+2013,Enzkreis,Bruttoinlandsprodukt,25835
+2014,Enzkreis,Bruttoinlandsprodukt,26992
+2015,Enzkreis,Bruttoinlandsprodukt,28172
+2016,Enzkreis,Bruttoinlandsprodukt,29042
+2017,Enzkreis,Bruttoinlandsprodukt,30320
+2018,Enzkreis,Bruttoinlandsprodukt,31031
+2019,Enzkreis,Bruttoinlandsprodukt,27781
+2007,Land Baden-Württemberg,Bruttoinlandsprodukt,35082
+2008,Land Baden-Württemberg,Bruttoinlandsprodukt,35489
+2009,Land Baden-Württemberg,Bruttoinlandsprodukt,33085
+2010,Land Baden-Württemberg,Bruttoinlandsprodukt,35793
+2011,Land Baden-Württemberg,Bruttoinlandsprodukt,38617
+2012,Land Baden-Württemberg,Bruttoinlandsprodukt,39141
+2013,Land Baden-Württemberg,Bruttoinlandsprodukt,39813
+2014,Land Baden-Württemberg,Bruttoinlandsprodukt,40807
+2015,Land Baden-Württemberg,Bruttoinlandsprodukt,42304
+2016,Land Baden-Württemberg,Bruttoinlandsprodukt,43488
+2017,Land Baden-Württemberg,Bruttoinlandsprodukt,44918
+2018,Land Baden-Württemberg,Bruttoinlandsprodukt,46383
+2019,Land Baden-Württemberg,Bruttoinlandsprodukt,42398

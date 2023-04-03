@@ -1,61 +1,17 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Region,Beschäftigtenanteil,Value
+2013,Enzkreis,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,6.5
+2014,Enzkreis,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,6.8
+2015,Enzkreis,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,8.1
+2016,Enzkreis,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,8.5
+2017,Enzkreis,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,8.6
+2018,Enzkreis,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,8.5
+2019,Enzkreis,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,8.0
+2020,Enzkreis,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,8.1
+2013,Land BW,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,13.8
+2014,Land BW,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,14.0
+2015,Land BW,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,14.5
+2016,Land BW,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,14.7
+2017,Land BW,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,15.0
+2018,Land BW,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,15.2
+2019,Land BW,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,15.1
+2020,Land BW,Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen,14.7

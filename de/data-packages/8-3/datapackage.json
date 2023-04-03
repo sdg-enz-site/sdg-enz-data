@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             },
@@ -32,8 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Langzeitarbeitslosenquote",
                 ""
               ]
             },
@@ -41,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

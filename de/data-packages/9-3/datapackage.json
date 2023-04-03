@@ -16,32 +16,20 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Innovationsindex",
+                "Rang in BW (von 44)",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

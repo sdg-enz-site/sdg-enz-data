@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -32,8 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Sozialversicherungspflichtig beschäftigte Männer",
+                "Sozialversicherungspflichtig beschäftigte Frauen",
+                "Männer in Teilzeit",
+                "Frauen in Teilzeit",
+                "Sozialversicherungspflichtig beschäftigte Frauen [%]",
+                "Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%]",
                 ""
               ]
             },
@@ -41,7 +44,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

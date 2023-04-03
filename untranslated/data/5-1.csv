@@ -1,61 +1,91 @@
 Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+2007,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,31057.0
+2008,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,31659.0
+2009,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,29856.0
+2010,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,29574.0
+2011,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,31035.0
+2012,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,31844.0
+2013,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,32052.0
+2014,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,32727.0
+2015,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,33304.0
+2016,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,34464.0
+2017,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,35573.0
+2018,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,36660.0
+2019,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,37451.0
+2020,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,37266.0
+2021,Enzkreis,Sozialversicherungspflichtig beschäftigte Männer,37023.0
+2007,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,21007.0
+2008,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,21611.0
+2009,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,21047.0
+2010,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,21020.0
+2011,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,21841.0
+2012,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,22245.0
+2013,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,22654.0
+2014,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,23169.0
+2015,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,23943.0
+2016,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,24573.0
+2017,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,25272.0
+2018,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,26038.0
+2019,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,26599.0
+2020,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,26516.0
+2021,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen,26421.0
+2007,Enzkreis,Männer in Teilzeit,946.0
+2008,Enzkreis,Männer in Teilzeit,955.0
+2009,Enzkreis,Männer in Teilzeit,816.0
+2010,Enzkreis,Männer in Teilzeit,992.0
+2011,Enzkreis,Männer in Teilzeit,1435.0
+2012,Enzkreis,Männer in Teilzeit,1488.0
+2013,Enzkreis,Männer in Teilzeit,1485.0
+2014,Enzkreis,Männer in Teilzeit,1627.0
+2015,Enzkreis,Männer in Teilzeit,1772.0
+2016,Enzkreis,Männer in Teilzeit,1903.0
+2017,Enzkreis,Männer in Teilzeit,1972.0
+2018,Enzkreis,Männer in Teilzeit,2060.0
+2019,Enzkreis,Männer in Teilzeit,2176.0
+2020,Enzkreis,Männer in Teilzeit,2209.0
+2021,Enzkreis,Männer in Teilzeit,2469.0
+2007,Enzkreis,Frauen in Teilzeit,6869.0
+2008,Enzkreis,Frauen in Teilzeit,7077.0
+2009,Enzkreis,Frauen in Teilzeit,7182.0
+2010,Enzkreis,Frauen in Teilzeit,7497.0
+2011,Enzkreis,Frauen in Teilzeit,9469.0
+2012,Enzkreis,Frauen in Teilzeit,9907.0
+2013,Enzkreis,Frauen in Teilzeit,10109.0
+2014,Enzkreis,Frauen in Teilzeit,10433.0
+2015,Enzkreis,Frauen in Teilzeit,10925.0
+2016,Enzkreis,Frauen in Teilzeit,11341.0
+2017,Enzkreis,Frauen in Teilzeit,11733.0
+2018,Enzkreis,Frauen in Teilzeit,12151.0
+2019,Enzkreis,Frauen in Teilzeit,12579.0
+2020,Enzkreis,Frauen in Teilzeit,12694.0
+2021,Enzkreis,Frauen in Teilzeit,12715.0
+2007,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],40.0
+2008,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],40.6
+2009,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.3
+2010,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.5
+2011,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.3
+2012,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.1
+2013,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.4
+2014,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.5
+2015,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.8
+2016,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.6
+2017,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.5
+2018,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.5
+2019,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.5
+2020,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.6
+2021,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen [%],41.6
+2007,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],88.0
+2008,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],88.0
+2009,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],90.0
+2010,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],88.0
+2011,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],87.0
+2012,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],87.0
+2013,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],87.0
+2014,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],87.0
+2015,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],86.0
+2016,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],86.0
+2017,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],86.0
+2018,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],86.0
+2019,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],85.0
+2020,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],85.0
+2021,Enzkreis,Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%],84.0

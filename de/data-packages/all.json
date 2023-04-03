@@ -23,7 +23,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -34,8 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Wasserkraftanlagen - Anforderungen erfüllt",
+                "Wasserkraftanlagen - Anforderungen noch nicht erfüllt",
+                "Umsetzungsgrad",
                 ""
               ]
             },
@@ -410,8 +410,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Medianeinkommen gesamt",
+                "Medianeinkommen - Männer",
+                "Medianeinkommen - Frauen",
+                "Verdienstabstand Frauen - Männer",
                 ""
               ]
             },
@@ -495,7 +497,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -506,8 +507,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Haushalte",
+                "Gewerbe, sonstiges",
+                "Industrie",
+                "Verkehr",
+                "CO2-Emissionen",
                 ""
               ]
             },
@@ -781,20 +785,19 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Erwerbsaufstocker",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Erwerbsaufstocker",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Erwerbsaufstocker"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -966,7 +969,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             },
@@ -986,7 +989,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1158,7 +1161,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             },
@@ -1169,8 +1172,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Bruttoinlandsprodukt",
                 ""
               ]
             },
@@ -1201,32 +1203,20 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Innovationsindex",
+                "Rang in BW (von 44)",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1498,7 +1488,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -1509,8 +1498,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Frauen",
+                "Männer",
+                "Index",
                 ""
               ]
             },
@@ -1594,7 +1584,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -1605,8 +1594,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "EEQ Stromverbrauch [MWh]",
+                "Anteil EEQ am Stromverbrauch [%]",
                 ""
               ]
             },
@@ -1793,20 +1782,19 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Beschäftigtenanteil",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Beschäftigtenanteil"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1931,7 +1919,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -1942,8 +1929,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Normalladepunkte",
+                "Schnellladepunkte",
                 ""
               ]
             },
@@ -2027,6 +2014,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Stadt Pforzheim",
                 "Land BW",
                 ""
               ]
@@ -2034,20 +2022,19 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Breitbandversorgung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Breitbandversorgung (>50 Mbit/s)",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Breitbandversorgung"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2075,27 +2062,26 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Existenzgründungen",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Existenzgründungen",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Existenzgründungen"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2230,8 +2216,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "geringes HH-Nettoeinkommen",
+                "mittleres HH-Nettoeinkommen",
+                "hohes HH-Nettoeinkommen",
                 ""
               ]
             },
@@ -2578,8 +2565,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Rel. Schulabbrecherquote von Ausländern/-innen",
                 ""
               ]
             },
@@ -2587,7 +2573,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2662,6 +2648,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
+                "Stadt Pforzheim",
                 "Land BW",
                 ""
               ]
@@ -2669,20 +2656,19 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Hochqualifizierte",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Hochqualifizierte (am Arbeitsort)",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Hochqualifizierte"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2746,7 +2732,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -2757,8 +2742,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Sozialversicherungspflichtig beschäftigte Männer",
+                "Sozialversicherungspflichtig beschäftigte Frauen",
+                "Männer in Teilzeit",
+                "Frauen in Teilzeit",
+                "Sozialversicherungspflichtig beschäftigte Frauen [%]",
+                "Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%]",
                 ""
               ]
             },
@@ -2766,7 +2755,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2801,20 +2790,20 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Unternehmensinsolvenzen (absolut)",
+                "Unternehmensinsolvenzen (je 1000 Einwohner)",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2890,27 +2879,28 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Sektor",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Beschäftigungsanteil 1. Sektor",
+                "Beschäftigungsanteil 2. Sektor",
+                "Beschäftigungsanteil 3. Sektor",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Sektor"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2986,23 +2976,21 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Glasfaserversorgung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Hausanschlüsse und Vorstreckungen für Glasfaserversorgung",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Glasfaserversorgung"
           },
           {
             "name": "Value",
@@ -3404,8 +3392,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Rel. Beschäftigungsquote bei Ausländer/-innen",
                 ""
               ]
             },
@@ -3413,7 +3400,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3441,7 +3428,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -3452,8 +3438,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Wasserschutzgebiete",
+                "Wasserschutzgebiete (fachtechn. abgegrenzt)",
+                "Umsetzungsgrad",
                 ""
               ]
             },
@@ -3727,7 +3714,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -3738,8 +3724,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Liegenschaften Landratsamt (witterungsbereinigt)",
+                "Anteil Erneuerbarer Energien (Liegenschaften Landratsamt)",
                 ""
               ]
             },
@@ -3747,7 +3733,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3907,7 +3893,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -3918,8 +3903,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Männeranteil im Kreistag des Enzkreises",
+                "Frauenanteil im Kreistag des Enzkreises",
                 ""
               ]
             },
@@ -3955,7 +3940,6 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
                 ""
               ]
             },
@@ -3966,8 +3950,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Private Haushalte",
+                "Gewerbe, sonstiges",
+                "Industrie",
+                "Verkehr",
                 ""
               ]
             },
@@ -4051,7 +4037,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             },
@@ -4062,8 +4048,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Langzeitarbeitslosenquote",
                 ""
               ]
             },
@@ -4071,7 +4056,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
