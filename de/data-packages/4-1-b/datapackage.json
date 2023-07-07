@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Betreuungsquote - Anteil in %",
+                "Betreuungsumfang - Anteil in %",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -28,20 +40,21 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Betreuung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "bis 25 h in Betreuung",
+                "25 bis 35 h in Betreuung",
+                "mehr als 35 h Betreuung",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Betreuung"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

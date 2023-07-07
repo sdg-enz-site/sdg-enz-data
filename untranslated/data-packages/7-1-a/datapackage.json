@@ -15,22 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Endenergieverbrauch [kWh]",
+                "Anteil erneuerbarer Energien [%]",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Landratsamt",
             "type": "string",
             "constraints": {
               "enum": [
                 "Liegenschaften Landratsamt (witterungsbereinigt)",
-                "Anteil Erneuerbarer Energien (Liegenschaften Landratsamt)",
+                "Anteil erneuerbarer Energien (Liegenschaften Landratsamt)",
                 ""
               ]
             }

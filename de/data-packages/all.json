@@ -3,107 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "6-2/data.csv",
-      "name": "6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wasserkraftanlagen - Anforderungen erfüllt",
-                "Wasserkraftanlagen - Anforderungen noch nicht erfüllt",
-                "Umsetzungsgrad",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "6-2"
-    },
-    {
-      "path": "4-4/data.csv",
-      "name": "4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "gruppe.sektor",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Industrie und Handel",
-                "Handwerk",
-                "Landwirtschaft",
-                "Öffentlicher Dienst",
-                "Freie Berufe",
-                "Hauswirtschaft",
-                ""
-              ]
-            },
-            "title": "Sektor"
-          },
-          {
-            "name": "gruppe.gesamt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gesamt",
-                ""
-              ]
-            },
-            "title": "Gesamt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-4"
-    },
-    {
-      "path": "15-5/data.csv",
-      "name": "15-5",
+      "path": "1-2-b/data.csv",
+      "name": "1-2-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -129,113 +30,15 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.grund",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Grundsicherung im Alter (SGB XII-Quote)",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "15-5"
-    },
-    {
-      "path": "4-3/data.csv",
-      "name": "4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.abschluss",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schulabgänger mit Hauptschulabschluss",
-                "Schulabgänger mit mittlerem Abschluss",
-                "Schulabgänger mit Hochschulreife",
-                ""
-              ]
-            },
-            "title": "Schulabschluss"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-3"
-    },
-    {
-      "path": "3-4/data.csv",
-      "name": "3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Alkoholbedingte Krankhausaufenthalte - Mädchen",
-                "Alkoholbedingte Krankhausaufenthalte - Jungen",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
+            "title": "SGB XII-Quote"
           },
           {
             "name": "Value",
@@ -244,59 +47,11 @@
           }
         ]
       },
-      "title": "3-4"
+      "title": "1-2-b"
     },
     {
-      "path": "2-1/data.csv",
-      "name": "2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.gewicht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Untergewicht [%]",
-                "Normalgewicht [%]",
-                "Übergewicht [%]",
-                ""
-              ]
-            },
-            "title": "Body Mass Index (BMI)"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "2-1"
-    },
-    {
-      "path": "11-1-b/data.csv",
-      "name": "11-1-b",
+      "path": "10-1/data.csv",
+      "name": "10-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -322,209 +77,26 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Einkommensklassen",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "geringes HH-Nettoeinkommen",
+                "mittleres HH-Nettoeinkommen",
+                "hohes HH-Nettoeinkommen",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Einkommensklassen"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "11-1-b"
-    },
-    {
-      "path": "4-6/data.csv",
-      "name": "4-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-6"
-    },
-    {
-      "path": "5-2/data.csv",
-      "name": "5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Medianeinkommen gesamt",
-                "Medianeinkommen - Männer",
-                "Medianeinkommen - Frauen",
-                "Verdienstabstand Frauen - Männer",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-2"
-    },
-    {
-      "path": "16-2/data.csv",
-      "name": "16-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-2"
-    },
-    {
-      "path": "13-2/data.csv",
-      "name": "13-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Haushalte",
-                "Gewerbe, sonstiges",
-                "Industrie",
-                "Verkehr",
-                "CO2-Emissionen",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "13-2"
+      "title": "10-1"
     },
     {
       "path": "4-1-b/data.csv",
@@ -542,6 +114,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Betreuungsquote - Anteil in %",
+                "Betreuungsumfang - Anteil in %",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -554,20 +138,21 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Betreuung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "bis 25 h in Betreuung",
+                "25 bis 35 h in Betreuung",
+                "mehr als 35 h Betreuung",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Betreuung"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -575,13 +160,13 @@
       "title": "4-1-b"
     },
     {
-      "path": "4-2/data.csv",
-      "name": "4-2",
+      "path": "7-3/data.csv",
+      "name": "7-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -590,16 +175,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Ladesäuleninfrastruktur",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Normalladepunkte (Enzkreis)",
+                "Schnellladepunkte (Enzkreis)",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Ladesäuleninfrastruktur"
           },
           {
             "name": "Value",
@@ -608,11 +193,183 @@
           }
         ]
       },
-      "title": "4-2"
+      "title": "7-3"
     },
     {
-      "path": "15-4/data.csv",
-      "name": "15-4",
+      "path": "7-1-b/data.csv",
+      "name": "7-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Sektoren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Private Haushalte",
+                "Gewerbe und sonstiges",
+                "Industrie",
+                "Verkehr",
+                ""
+              ]
+            },
+            "title": "Sektoren"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-1-b"
+    },
+    {
+      "path": "9-4/data.csv",
+      "name": "9-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Stadt Pforzheim",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Hochqualifizierte",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hochqualifizierte (am Arbeitsort)",
+                ""
+              ]
+            },
+            "title": "Hochqualifizierte"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-4"
+    },
+    {
+      "path": "13-1-b/data.csv",
+      "name": "13-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Emittenten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stromverbrauch",
+                "Heizenergie",
+                "Wasserverbrauch",
+                "Straßenmeisterei",
+                "Fuhrpark",
+                ""
+              ]
+            },
+            "title": "Emittenten"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "13-1-b"
+    },
+    {
+      "path": "12-6/data.csv",
+      "name": "12-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Nachhaltige Antriebstechniken",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anteil der Fahrzeuge mit nachhaltigen Antriebstechniken",
+                "Anteil der gefahrenen Kilometer mit nachhaltigen Antriebstechniken",
+                ""
+              ]
+            },
+            "title": "Nachhaltige Antriebstechniken"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-6"
+    },
+    {
+      "path": "8-2/data.csv",
+      "name": "8-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -638,7 +395,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Beschäftigung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -647,7 +404,56 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Beschäftigung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-2"
+    },
+    {
+      "path": "5-3/data.csv",
+      "name": "5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Relative Armut von Frauen und Männern [%]",
+                "Armutsproportionen [Index]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Verhältnis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauen (Enzkreis)",
+                "Männer (Enzkreis)",
+                "Index",
+                ""
+              ]
+            },
+            "title": "Verhältnis"
           },
           {
             "name": "Value",
@@ -656,11 +462,11 @@
           }
         ]
       },
-      "title": "15-4"
+      "title": "5-3"
     },
     {
-      "path": "15-2/data.csv",
-      "name": "15-2",
+      "path": "9-5-a/data.csv",
+      "name": "9-5-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -679,32 +485,33 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land BW",
+                "Land Baden-Württemberg",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Sektor",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Beschäftigungsanteil 1. Sektor",
+                "Beschäftigungsanteil 2. Sektor",
+                "Beschäftigungsanteil 3. Sektor",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Sektor"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "15-2"
+      "title": "9-5-a"
     },
     {
       "path": "3-8-b/data.csv",
@@ -758,438 +565,8 @@
       "title": "3-8-b"
     },
     {
-      "path": "8-4/data.csv",
-      "name": "8-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Erwerbsaufstocker",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Erwerbsaufstocker",
-                ""
-              ]
-            },
-            "title": "Erwerbsaufstocker"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-4"
-    },
-    {
-      "path": "16-1/data.csv",
-      "name": "16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-1"
-    },
-    {
-      "path": "11-8/data.csv",
-      "name": "11-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-8"
-    },
-    {
-      "path": "11-3/data.csv",
-      "name": "11-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-3"
-    },
-    {
-      "path": "8-2/data.csv",
-      "name": "8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land Baden-Württemberg",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-2"
-    },
-    {
       "path": "11-5/data.csv",
       "name": "11-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-5"
-    },
-    {
-      "path": "16-3/data.csv",
-      "name": "16-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-3"
-    },
-    {
-      "path": "3-3/data.csv",
-      "name": "3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vorzeitige Sterblichkeit - Frauen",
-                "Vorzeitige Sterblichkeit - Männer",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-3"
-    },
-    {
-      "path": "8-1/data.csv",
-      "name": "8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land Baden-Württemberg",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bruttoinlandsprodukt",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-1"
-    },
-    {
-      "path": "9-3/data.csv",
-      "name": "9-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1207,25 +584,52 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Innovationsindex",
-                "Rang in BW (von 44)",
+                "Flächeninanspruchnahme",
+                "Flächenversiegelung",
                 ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "Nutzungsarten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Siedlungs- und Verkehrsfläche",
+                "Landwirtschaft",
+                "Gewässer",
+                "Berg-/Tagebau, Grube, Steinbruch",
+                "Wald",
+                ""
+              ]
+            },
+            "title": "Nutzungsarten"
+          },
+          {
+            "name": "Siedlungs- und Verkehrsfläche",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Siedlungsfläche Enzkreis [ha]",
+                "Verkehrsfläche Enzkreis [ha]",
+                ""
+              ]
+            },
+            "title": "Siedlungs- und Verkehrsfläche"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
       },
-      "title": "9-3"
+      "title": "11-5"
     },
     {
-      "path": "15-3/data.csv",
-      "name": "15-3",
+      "path": "3-6-c/data.csv",
+      "name": "3-6-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1269,11 +673,11 @@
           }
         ]
       },
-      "title": "15-3"
+      "title": "3-6-c"
     },
     {
-      "path": "1-2-b/data.csv",
-      "name": "1-2-b",
+      "path": "6-2/data.csv",
+      "name": "6-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1287,76 +691,40 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Wasserkraftanlagen [Anzahl]",
+                "Umsetzungsgrad [%]",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.grund",
+            "name": "Wiederherstellung.WKA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Grundsicherung im Alter (SGB XII-Quote)",
+                "Wasserkraftanlagen erfüllen Anforderungen",
+                "Wasserkraftanlagen erfüllen Anforderungen noch nicht",
                 ""
               ]
             },
-            "title": "SGB XII-Quote"
+            "title": "Wiederherstellung.WKA"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-2-b"
-    },
-    {
-      "path": "3-6-a/data.csv",
-      "name": "3-6-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "mac-roman",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
+            "name": "Umsetzungsgrad.WKA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Wiederherstellung erfolgt [%]",
+                "Wiederherstellung noch nicht erfolgt [%]",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.pflege",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Pflegegeld",
-                "ambulante Pflege",
-                "vollstat. Pflege (inkl. Kurzzeitpflege)",
-                "Pflegegrad 1 - Entlastungsbeitrag",
-                ""
-              ]
-            },
-            "title": "Pflegebedürftigkeit"
+            "title": "Umsetzungsgrad.WKA"
           },
           {
             "name": "Value",
@@ -1365,681 +733,7 @@
           }
         ]
       },
-      "title": "3-6-a"
-    },
-    {
-      "path": "16-4/data.csv",
-      "name": "16-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-4"
-    },
-    {
-      "path": "3-8-a/data.csv",
-      "name": "3-8-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.emittenten",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Abriebemissionen (Reifen, Bremsen)",
-                "Otto Pkw",
-                "Schwere Nutzfahrzeuge",
-                "Krafträder",
-                "Diesel Pkw",
-                "Leichte Nutzfahrzeuge",
-                "Busse",
-                ""
-              ]
-            },
-            "title": "Emittenten"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-8-a"
-    },
-    {
-      "path": "5-3/data.csv",
-      "name": "5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
-                "Index",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-3"
-    },
-    {
-      "path": "10-4/data.csv",
-      "name": "10-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-4"
-    },
-    {
-      "path": "7-2/data.csv",
-      "name": "7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EEQ Stromverbrauch [MWh]",
-                "Anteil EEQ am Stromverbrauch [%]",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-2"
-    },
-    {
-      "path": "17-1/data.csv",
-      "name": "17-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "17-1"
-    },
-    {
-      "path": "11-4/data.csv",
-      "name": "11-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-4"
-    },
-    {
-      "path": "11-7/data.csv",
-      "name": "11-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-7"
-    },
-    {
-      "path": "9-5-b/data.csv",
-      "name": "9-5-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Beschäftigtenanteil",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen",
-                ""
-              ]
-            },
-            "title": "Beschäftigtenanteil"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-5-b"
-    },
-    {
-      "path": "1-2-a/data.csv",
-      "name": "1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "grupp.armut",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kinderarmut",
-                "Jugendarmut",
-                ""
-              ]
-            },
-            "title": "Kinder / Jugendliche"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-2-a"
-    },
-    {
-      "path": "3-6-b/data.csv",
-      "name": "3-6-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.ambulant",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ambulante Pflegedienste im Enzkreis",
-                "Ambulante Pflegedienste Stadt Pforzheim (auch im Enzkreis tätig)",
-                "Anerkannte Unterstützungsangebote nach UstA-VO BW",
-                "Beratungsangebote",
-                ""
-              ]
-            },
-            "title": "Ambulante Pflegeleistungen"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-6-b"
-    },
-    {
-      "path": "7-3/data.csv",
-      "name": "7-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normalladepunkte",
-                "Schnellladepunkte",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-3"
-    },
-    {
-      "path": "12-3/data.csv",
-      "name": "12-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-3"
-    },
-    {
-      "path": "9-6-a/data.csv",
-      "name": "9-6-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Stadt Pforzheim",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Breitbandversorgung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Breitbandversorgung (>50 Mbit/s)",
-                ""
-              ]
-            },
-            "title": "Breitbandversorgung"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-6-a"
+      "title": "6-2"
     },
     {
       "path": "9-1/data.csv",
@@ -2089,8 +783,8 @@
       "title": "9-1"
     },
     {
-      "path": "2-2/data.csv",
-      "name": "2-2",
+      "path": "12-1/data.csv",
+      "name": "12-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2102,6 +796,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gewinnung und Abgabe [1.000 m³]",
+                "Täglicher Verbrauch pro Kopf [l]",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Region",
@@ -2116,29 +822,30 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.betrieb",
+            "name": "Wassergewinnung und -konsum",
             "type": "string",
             "constraints": {
               "enum": [
-                "Konventionell bewirtschaftete Fläche [%]",
-                "Ökologisch bewirtschaftete Fläche [%]",
+                "Gewinnung Grund- und Quellwasser",
+                "Wasserabgabe an Letztverbraucher (gesamt)",
+                "Wasserabgabe an Haushalte",
                 ""
               ]
             },
-            "title": "Art der Bewirtschaftung"
+            "title": "Wassergewinnung und -konsum"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "2-2"
+      "title": "12-1"
     },
     {
-      "path": "13-1-a/data.csv",
-      "name": "13-1-a",
+      "path": "3-4/data.csv",
+      "name": "3-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2164,29 +871,29 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Alkoholbedingte Krankhausaufenthalte - Mädchen",
+                "Alkoholbedingte Krankhausaufenthalte - Jungen",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "13-1-a"
+      "title": "3-4"
     },
     {
-      "path": "10-1/data.csv",
-      "name": "10-1",
+      "path": "16-3/data.csv",
+      "name": "16-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2200,29 +907,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Aufwendungen.Verschuldung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Ordentliche Aufwendungen (Enzkreis)",
+                "Verschuldung im Kernhaushalt (Enzkreis)",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "geringes HH-Nettoeinkommen",
-                "mittleres HH-Nettoeinkommen",
-                "hohes HH-Nettoeinkommen",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Aufwendungen.Verschuldung"
           },
           {
             "name": "Value",
@@ -2231,7 +925,61 @@
           }
         ]
       },
-      "title": "10-1"
+      "title": "16-3"
+    },
+    {
+      "path": "5-1/data.csv",
+      "name": "5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sozialversicherungspflichtige Beschäftigung (abs.)",
+                "Sozialversicherungspflichtige Beschäftigung (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Beschäftigung.Enzkreis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sozialversicherungspflichtig beschäftigte Männer (abs.)",
+                "Sozialversicherungspflichtig beschäftigte Frauen (abs.)",
+                "Männer in Teilzeit (abs.)",
+                "Frauen in Teilzeit (abs.)",
+                "Sozialversicherungspflichtig beschäftigte Frauen [%]",
+                "Sozialversicherungspflichtig beschäftigte Männer [%]",
+                "Svb Frauen in Teilzeit [%]",
+                "Svb Männer in Teilzeit [%]",
+                ""
+              ]
+            },
+            "title": "Beschäftigung.Enzkreis"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-1"
     },
     {
       "path": "3-5-a/data.csv",
@@ -2296,1022 +1044,24 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Recyclingpapier",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Anteil in der Kreisverwaltung",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Recyclingpapier"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
       "title": "12-5"
-    },
-    {
-      "path": "11-2/data.csv",
-      "name": "11-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-2"
-    },
-    {
-      "path": "11-9/data.csv",
-      "name": "11-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-9"
-    },
-    {
-      "path": "3-1/data.csv",
-      "name": "3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-1"
-    },
-    {
-      "path": "4-1-a/data.csv",
-      "name": "4-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Betreuungsquote in %",
-                "Betreuungsumfang - Anteil in %",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.betreuung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "bis 25 h in Betreuung",
-                "25 bis 35 h in Betreuung",
-                "mehr als 35 h Betreuung",
-                ""
-              ]
-            },
-            "title": "Betreuungsumfang"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-1-a"
-    },
-    {
-      "path": "10-3/data.csv",
-      "name": "10-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rel. Schulabbrecherquote von Ausländern/-innen",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "10-3"
-    },
-    {
-      "path": "3-5-b/data.csv",
-      "name": "3-5-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-5-b"
-    },
-    {
-      "path": "9-4/data.csv",
-      "name": "9-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Stadt Pforzheim",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Hochqualifizierte",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hochqualifizierte (am Arbeitsort)",
-                ""
-              ]
-            },
-            "title": "Hochqualifizierte"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-4"
-    },
-    {
-      "path": "1-1/data.csv",
-      "name": "1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "1-1"
-    },
-    {
-      "path": "5-1/data.csv",
-      "name": "5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sozialversicherungspflichtig beschäftigte Männer",
-                "Sozialversicherungspflichtig beschäftigte Frauen",
-                "Männer in Teilzeit",
-                "Frauen in Teilzeit",
-                "Sozialversicherungspflichtig beschäftigte Frauen [%]",
-                "Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%]",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-1"
-    },
-    {
-      "path": "9-2/data.csv",
-      "name": "9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Unternehmensinsolvenzen (absolut)",
-                "Unternehmensinsolvenzen (je 1000 Einwohner)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-2"
-    },
-    {
-      "path": "17-3/data.csv",
-      "name": "17-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "17-3"
-    },
-    {
-      "path": "9-5-a/data.csv",
-      "name": "9-5-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land Baden-Württemberg",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Sektor",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsanteil 1. Sektor",
-                "Beschäftigungsanteil 2. Sektor",
-                "Beschäftigungsanteil 3. Sektor",
-                ""
-              ]
-            },
-            "title": "Sektor"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-5-a"
-    },
-    {
-      "path": "11-6/data.csv",
-      "name": "11-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-6"
-    },
-    {
-      "path": "9-6-b/data.csv",
-      "name": "9-6-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Glasfaserversorgung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hausanschlüsse und Vorstreckungen für Glasfaserversorgung",
-                ""
-              ]
-            },
-            "title": "Glasfaserversorgung"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-6-b"
-    },
-    {
-      "path": "12-4/data.csv",
-      "name": "12-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-4"
-    },
-    {
-      "path": "15-1/data.csv",
-      "name": "15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "15-1"
-    },
-    {
-      "path": "4-5/data.csv",
-      "name": "4-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-5"
-    },
-    {
-      "path": "4-8/data.csv",
-      "name": "4-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "gruppe.schule",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kooperationsquote Schule am Winterrain",
-                "Kooperationsquote Gustav-Heinemann-Schule",
-                ""
-              ]
-            },
-            "title": "Schule"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-8"
-    },
-    {
-      "path": "13-1-b/data.csv",
-      "name": "13-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "13-1-b"
-    },
-    {
-      "path": "14-1/data.csv",
-      "name": "14-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "14-1"
-    },
-    {
-      "path": "3-6-c/data.csv",
-      "name": "3-6-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "3-6-c"
     },
     {
       "path": "2-3/data.csv",
@@ -3361,8 +1111,8 @@
       "title": "2-3"
     },
     {
-      "path": "10-2/data.csv",
-      "name": "10-2",
+      "path": "15-5/data.csv",
+      "name": "15-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3374,6 +1124,65 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Schutzgebiete.Wald",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wasser- und Quellschutzgebiete",
+                "Naturpark",
+                "Erholungswald Stufe 2",
+                "Landschaftsschutzgebiet",
+                "Bodenschutz",
+                "Immissionsschutz",
+                "Naturschutzgebiet",
+                "Waldrefugien",
+                "Klimaschutz",
+                "Schonwald",
+                "Sichtschutz",
+                "Naturdenkmal",
+                "Bannwald",
+                ""
+              ]
+            },
+            "title": "Schutzgebiete.Wald"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-5"
+    },
+    {
+      "path": "4-1-a/data.csv",
+      "name": "4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Betreuungsquote - Anteil in %",
+                "Betreuungsumfang - Anteil in %",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Region",
@@ -3388,15 +1197,17 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.betreuung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rel. Beschäftigungsquote bei Ausländer/-innen",
+                "bis 25 h in Betreuung",
+                "25 bis 35 h in Betreuung",
+                "mehr als 35 h Betreuung",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Betreuungsumfang"
           },
           {
             "name": "Value",
@@ -3405,16 +1216,16 @@
           }
         ]
       },
-      "title": "10-2"
+      "title": "4-1-a"
     },
     {
-      "path": "6-1/data.csv",
-      "name": "6-1",
+      "path": "3-6-a/data.csv",
+      "name": "3-6-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -3434,17 +1245,18 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.pflege",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wasserschutzgebiete",
-                "Wasserschutzgebiete (fachtechn. abgegrenzt)",
-                "Umsetzungsgrad",
+                "Pflegegeld",
+                "ambulante Pflege",
+                "vollstat. Pflege (inkl. Kurzzeitpflege)",
+                "Pflegegrad 1 - Entlastungsbeitrag",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Pflegebedürftigkeit"
           },
           {
             "name": "Value",
@@ -3453,7 +1265,162 @@
           }
         ]
       },
-      "title": "6-1"
+      "title": "3-6-a"
+    },
+    {
+      "path": "9-6-a/data.csv",
+      "name": "9-6-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Stadt Pforzheim",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Breitbandversorgung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Breitbandversorgung (≥50 Mbit/s)",
+                ""
+              ]
+            },
+            "title": "Breitbandversorgung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-6-a"
+    },
+    {
+      "path": "12-3/data.csv",
+      "name": "12-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "WIN-Charta BW",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unterstützer im Enzkreis",
+                ""
+              ]
+            },
+            "title": "WIN-Charta BW"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-3"
+    },
+    {
+      "path": "9-3/data.csv",
+      "name": "9-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Innovationsindex",
+                "Rang in BW (von 44)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-3"
+    },
+    {
+      "path": "8-1/data.csv",
+      "name": "8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Bruttoinlandsprodukt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bruttoinlandsprodukt - Enzkreis [€ je EW]",
+                "Bruttoinlandsprodukt - Land BW [€ je EW]",
+                ""
+              ]
+            },
+            "title": "Bruttoinlandsprodukt"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-1"
     },
     {
       "path": "3-2/data.csv",
@@ -3504,6 +1471,2303 @@
       "title": "3-2"
     },
     {
+      "path": "2-1/data.csv",
+      "name": "2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "gruppe.gewicht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Untergewicht [%]",
+                "Normalgewicht [%]",
+                "Übergewicht [%]",
+                ""
+              ]
+            },
+            "title": "Body Mass Index (BMI)"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2-1"
+    },
+    {
+      "path": "3-3/data.csv",
+      "name": "3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "gruppe.geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vorzeitige Sterblichkeit - Frauen",
+                "Vorzeitige Sterblichkeit - Männer",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-3"
+    },
+    {
+      "path": "11-9/data.csv",
+      "name": "11-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beförderungsfälle Regionalverkehr [abs.]",
+                "Fahrplan-km/Jahr [abs.]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-9"
+    },
+    {
+      "path": "1-1/data.csv",
+      "name": "1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-1"
+    },
+    {
+      "path": "3-6-b/data.csv",
+      "name": "3-6-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "gruppe.ambulant",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ambulante Pflegedienste im Enzkreis",
+                "Ambulante Pflegedienste Stadt Pforzheim (auch im Enzkreis tätig)",
+                "Anerkannte Unterstützungsangebote nach UstA-VO BW",
+                "Beratungsangebote",
+                ""
+              ]
+            },
+            "title": "Ambulante Pflegeleistungen"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-6-b"
+    },
+    {
+      "path": "11-7/data.csv",
+      "name": "11-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Verkehrsmittel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PKW als Fahrer",
+                "PKW als Mitfahrer",
+                "Fahrrad, Pedelec, E-Bike",
+                "ÖPNV",
+                "Fußverkehr",
+                ""
+              ]
+            },
+            "title": "Verkehrsmittel"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-7"
+    },
+    {
+      "path": "10-4/data.csv",
+      "name": "10-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl der Personen nach Geschlecht",
+                "Anzahl der Personen nach Alter",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauen",
+                "Männer",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Alter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unter 18-Jährige",
+                "18- bis unter 30-Jährige",
+                "30- bis unter 50-Jährige",
+                "50-Jährige und älter",
+                ""
+              ]
+            },
+            "title": "Alter"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-4"
+    },
+    {
+      "path": "15-2/data.csv",
+      "name": "15-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Fragmentierung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unzerschnittene Freiraumflächen [>50 km2] - Enzkreis",
+                "Unzerschnittene Freiraumflächen [>50 km2] - Land BW",
+                ""
+              ]
+            },
+            "title": "Fragmentierung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-2"
+    },
+    {
+      "path": "10-2/data.csv",
+      "name": "10-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Beschäftigungsquote",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rel. Beschäftigungsquote bei Ausländer/-innen",
+                ""
+              ]
+            },
+            "title": "Beschäftigungsquote"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-2"
+    },
+    {
+      "path": "17-2/data.csv",
+      "name": "17-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mitteleinsatz (pro Jahr)",
+                "Mitteleinsatz (kumuliert)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Eigenmittel.Fördermittel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aufgewendete Eigenmittel [€]",
+                "Akquirierte Fördermittel [€]",
+                "Aufgewendete Eigenmittel (kumuliert) [€]",
+                "Akquirierte Fördermittel (kumuliert) [€]",
+                ""
+              ]
+            },
+            "title": "Eigenmittel.Fördermittel"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-2"
+    },
+    {
+      "path": "7-2/data.csv",
+      "name": "7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EEQ-Verbrauch [MWh]",
+                "EEQ-Anteil [%]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "EEQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EEQ Stromverbrauch [MWh]",
+                "Anteil EEQ am Stromverbrauch [%]",
+                ""
+              ]
+            },
+            "title": "EEQ"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-2"
+    },
+    {
+      "path": "4-5/data.csv",
+      "name": "4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-5"
+    },
+    {
+      "path": "5-2/data.csv",
+      "name": "5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medianeinkommen [€]",
+                "Verdienstabstand [%]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Einkommensverteilung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medianeinkommen - gesamt [€]",
+                "Medianeinkommen - Männer [€]",
+                "Medianeinkommen - Frauen [€]",
+                "Verdienstabstand Frauen und Männer - Enzkreis [%]",
+                "Verdienstabstand Frauen und Männer - Land BW [%]",
+                ""
+              ]
+            },
+            "title": "Einkommensverteilung"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-2"
+    },
+    {
+      "path": "15-3/data.csv",
+      "name": "15-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Nutzung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Streuobstwiesenfläche Enzkreis",
+                "Übriges Kreisgebiet Enzkreis",
+                ""
+              ]
+            },
+            "title": "Nutzung"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-3"
+    },
+    {
+      "path": "9-5-b/data.csv",
+      "name": "9-5-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Beschäftigtenanteil",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigtenanteil in unternehmensorientierten Dienstleistungsberufen",
+                ""
+              ]
+            },
+            "title": "Beschäftigtenanteil"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-5-b"
+    },
+    {
+      "path": "14-1/data.csv",
+      "name": "14-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Abwasserentsorgung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Enzkreis",
+                "Anschlussgrad der Bevölkerung an kommunale Kläranlagen - Land BW",
+                ""
+              ]
+            },
+            "title": "Abwasserentsorgung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "14-1"
+    },
+    {
+      "path": "3-1/data.csv",
+      "name": "3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "gruppe.beschaeftigt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beschäftigungsquote",
+                "Beschäftigungsquote 55 - 64-Jährige",
+                ""
+              ]
+            },
+            "title": "gruppe.beschaeftigt"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-1"
+    },
+    {
+      "path": "12-2/data.csv",
+      "name": "12-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kommunales Abfallaufkommen (gesamt)",
+                "Aufkommen je Abfallstrom [kg/EW]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Abfallart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Haus- und Sperrmüll",
+                "Wertstoffe",
+                "Bio- und Grünabfälle",
+                "Gewerbe- und Baustellenabfälle",
+                "Elektro-/Elektronikaltgeräte",
+                "Sonstige Abfälle",
+                ""
+              ]
+            },
+            "title": "Abfallart"
+          },
+          {
+            "name": "Abfallaufkommen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abfallaufkommen [kg/EW] - Enzkreis",
+                "Abfallaufkommen [kg/EW] - Land BW",
+                ""
+              ]
+            },
+            "title": "Abfallaufkommen"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-2"
+    },
+    {
+      "path": "13-3/data.csv",
+      "name": "13-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Klimaschutzpakt BW",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unterstützer im Enzkreis",
+                ""
+              ]
+            },
+            "title": "Klimaschutzpakt BW"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "13-3"
+    },
+    {
+      "path": "16-1/data.csv",
+      "name": "16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Straftaten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Straftaten je 1.000 Einwohner/-innen (Enzkreis)",
+                "Straftaten je 1.000 Einwohner/-innen (Land BW)",
+                ""
+              ]
+            },
+            "title": "Straftaten"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-1"
+    },
+    {
+      "path": "11-8/data.csv",
+      "name": "11-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Straßenverkehrsunfälle",
+                "Getötete je 100.000 Einwohner",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Schadensart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unfälle je 100.000 Einwohner",
+                "Verunglückte je 100.000 Einwohner",
+                ""
+              ]
+            },
+            "title": "Schadensart"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-8"
+    },
+    {
+      "path": "4-8/data.csv",
+      "name": "4-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "gruppe.schule",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kooperationsquote Schule am Winterrain",
+                "Kooperationsquote Gustav-Heinemann-Schule",
+                ""
+              ]
+            },
+            "title": "Schule"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-8"
+    },
+    {
+      "path": "17-1/data.csv",
+      "name": "17-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl Projekte",
+                "Projekte je 10 tsd. Einwohner",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Entwicklungspol.Engagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl entwicklungspolitischer Projekte",
+                "Entwicklungspolitische Projekte (je 10 tsd. EW)",
+                ""
+              ]
+            },
+            "title": "Entwicklungspol.Engagement"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-1"
+    },
+    {
+      "path": "9-2/data.csv",
+      "name": "9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unternehmensinsolvenzen (absolut)",
+                "Unternehmensinsolvenzen (je 1000 Einwohner)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-2"
+    },
+    {
+      "path": "2-2/data.csv",
+      "name": "2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Art der Bewirtschaftung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Konventionell bewirtschaftete Fläche [%]",
+                "Ökologisch bewirtschaftete Fläche [%]",
+                ""
+              ]
+            },
+            "title": "Art der Bewirtschaftung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2-2"
+    },
+    {
+      "path": "8-3/data.csv",
+      "name": "8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Langzeitarbeitslosigkeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Langzeitarbeitslosenquote - Enzkreis [%]",
+                "Langzeitarbeitslosenquote - Land BW [%]",
+                ""
+              ]
+            },
+            "title": "Langzeitarbeitslosigkeit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-3"
+    },
+    {
+      "path": "11-4/data.csv",
+      "name": "11-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-4"
+    },
+    {
+      "path": "9-6-b/data.csv",
+      "name": "9-6-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Glasfaserversorgung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hausanschlüsse und Vorstreckungen für Glasfaserversorgung",
+                ""
+              ]
+            },
+            "title": "Glasfaserversorgung"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "9-6-b"
+    },
+    {
+      "path": "4-2/data.csv",
+      "name": "4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-2"
+    },
+    {
+      "path": "8-4/data.csv",
+      "name": "8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Erwerbsaufstocker",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erwerbsaufstocker",
+                ""
+              ]
+            },
+            "title": "Erwerbsaufstocker"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-4"
+    },
+    {
+      "path": "11-2/data.csv",
+      "name": "11-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Neubauaktivität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohngebäude - Veränderung zum Vorjahr",
+                "Wohnungen - Veränderung zum Vorjahr",
+                "Wohnräume - Veränderung zum Vorjahr",
+                ""
+              ]
+            },
+            "title": "Neubauaktivität"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-2"
+    },
+    {
+      "path": "15-4/data.csv",
+      "name": "15-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Schutzgebiet",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Naturparks",
+                "Landschaftsschutzgebiete",
+                "Flora-Fauna-Habitat-Gebiete (FFH)",
+                "Vogelschutz-Gebiete (SPA)",
+                "Naturschutzgebiete",
+                ""
+              ]
+            },
+            "title": "Schutzgebiet"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-4"
+    },
+    {
+      "path": "11-1-b/data.csv",
+      "name": "11-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Durchschnittspreise (Enzkreis)",
+                "Fläche - Baureifes Land (Enzkreis)",
+                "Preisindex für Bauland (Deutschland)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Durchschnittspreise",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bauland [€/m²]",
+                "Baureifes Land [€/m²]",
+                ""
+              ]
+            },
+            "title": "Durchschnittspreise"
+          },
+          {
+            "name": "Fläche",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fläche - Baureifes Land Enzkreis  [1.000 m²]",
+                ""
+              ]
+            },
+            "title": "Fläche"
+          },
+          {
+            "name": "Preisentwicklung Deutschland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Preisindex Deutschland",
+                ""
+              ]
+            },
+            "title": "Preisentwicklung Deutschland"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-1-b"
+    },
+    {
+      "path": "15-1/data.csv",
+      "name": "15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Landschaftsqualität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hemerobie-Index Enzkreis",
+                "Hemerobie-Index Stadt PF",
+                "Hemerobie-Index Land BW",
+                "Hemerobie-Index Deutschland",
+                ""
+              ]
+            },
+            "title": "Landschaftsqualität"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "15-1"
+    },
+    {
+      "path": "1-2-a/data.csv",
+      "name": "1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "grupp.armut",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kinderarmut",
+                "Jugendarmut",
+                ""
+              ]
+            },
+            "title": "Kinder / Jugendliche"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-2-a"
+    },
+    {
+      "path": "4-7/data.csv",
+      "name": "4-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-7"
+    },
+    {
+      "path": "11-1-a/data.csv",
+      "name": "11-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Mietpreise",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mietpreise",
+                ""
+              ]
+            },
+            "title": "Mietpreise"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-1-a"
+    },
+    {
+      "path": "4-6/data.csv",
+      "name": "4-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-6"
+    },
+    {
+      "path": "11-6/data.csv",
+      "name": "11-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kfz-Zulassungen Enzkreis",
+                "Kfz je 1.000 Einwohner",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land BW",
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Fahrzeugart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Krafträder",
+                "Personenkraftwagen",
+                "Kraftomnibusse",
+                "Lastkraftwagen",
+                "Zugmaschinen",
+                ""
+              ]
+            },
+            "title": "Fahrzeugart"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-6"
+    },
+    {
+      "path": "6-1/data.csv",
+      "name": "6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wasserschutzgebiete",
+                "Umsetzung",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "WSG.Umsetzungsgrad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wasserschutzgebiete (rechtskräftig ausgewiesen)",
+                "Wasserschutzgebiete (fachtechnisch abgegrenzt)",
+                "Umsetzungsgrad [%]",
+                ""
+              ]
+            },
+            "title": "WSG.Umsetzungsgrad"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "6-1"
+    },
+    {
+      "path": "13-1-a/data.csv",
+      "name": "13-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Emittenten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stromverbrauch",
+                "Heizenergie",
+                "Wasserverbrauch",
+                "Straßenmeisterei",
+                "Fuhrpark",
+                ""
+              ]
+            },
+            "title": "Emittenten"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "13-1-a"
+    },
+    {
+      "path": "10-3/data.csv",
+      "name": "10-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Schulabbrecherquote",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rel. Schulabbrecherquote von Ausländern/-innen",
+                ""
+              ]
+            },
+            "title": "Schulabbrecherquote"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-3"
+    },
+    {
+      "path": "16-4/data.csv",
+      "name": "16-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Politische.Partizipation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wahlbeteiligung bei Kreistagswahlen (Enzkreis)",
+                ""
+              ]
+            },
+            "title": "Politische.Partizipation"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-4"
+    },
+    {
+      "path": "11-3/data.csv",
+      "name": "11-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Einwohner pro Wohnung",
+                "Wohnfläche pro Person [m²]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-3"
+    },
+    {
+      "path": "12-4/data.csv",
+      "name": "12-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Engagement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fairtrade Towns",
+                ""
+              ]
+            },
+            "title": "Engagement"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-4"
+    },
+    {
+      "path": "17-3/data.csv",
+      "name": "17-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zeichnungskommunen [abs.]",
+                "Zeichnungskommunen  [%]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Agenda.2030",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.]",
+                "Zeichnungskommunen der Agenda 2030 im Enzkreis [%]",
+                ""
+              ]
+            },
+            "title": "Agenda.2030"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-3"
+    },
+    {
+      "path": "13-2/data.csv",
+      "name": "13-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CO2-Emissionen nach Emittenten [t]",
+                "CO2-Emissionen insgesamt [t]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Emittenten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Haushalte",
+                "Gewerbe und Sonstiges",
+                "Industrie",
+                "Verkehr",
+                ""
+              ]
+            },
+            "title": "Emittenten"
+          },
+          {
+            "name": "CO2-Emissionen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CO2-Emissionen",
+                ""
+              ]
+            },
+            "title": "CO2-Emissionen"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "13-2"
+    },
+    {
+      "path": "4-3/data.csv",
+      "name": "4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "gruppe.abschluss",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schulabgänger mit Hauptschulabschluss",
+                "Schulabgänger mit mittlerem Abschluss",
+                "Schulabgänger mit Hochschulreife",
+                ""
+              ]
+            },
+            "title": "Schulabschluss"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-3"
+    },
+    {
+      "path": "3-5-b/data.csv",
+      "name": "3-5-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "gruppe.geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauen",
+                "Männer",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-5-b"
+    },
+    {
+      "path": "4-4/data.csv",
+      "name": "4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "gruppe.sektor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Industrie und Handel",
+                "Handwerk",
+                "Landwirtschaft",
+                "Öffentlicher Dienst",
+                "Freie Berufe",
+                "Hauswirtschaft",
+                ""
+              ]
+            },
+            "title": "Sektor"
+          },
+          {
+            "name": "gruppe.gesamt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamt",
+                ""
+              ]
+            },
+            "title": "Gesamt"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-4"
+    },
+    {
       "path": "3-7/data.csv",
       "name": "3-7",
       "profile": "tabular-data-resource",
@@ -3550,8 +3814,8 @@
       "title": "3-7"
     },
     {
-      "path": "12-1/data.csv",
-      "name": "12-1",
+      "path": "16-2/data.csv",
+      "name": "16-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3565,28 +3829,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Steuerpotenzial",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Realisiertes Steuerpotenzial je Einwohner - Enzkreis",
+                "Realisiertes Steuerpotenzial je Einwohner - Land BW",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Steuerpotenzial"
           },
           {
             "name": "Value",
@@ -3595,107 +3847,11 @@
           }
         ]
       },
-      "title": "12-1"
+      "title": "16-2"
     },
     {
-      "path": "11-1-a/data.csv",
-      "name": "11-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "11-1-a"
-    },
-    {
-      "path": "17-2/data.csv",
-      "name": "17-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "17-2"
-    },
-    {
-      "path": "7-1-a/data.csv",
-      "name": "7-1-a",
+      "path": "3-8-a/data.csv",
+      "name": "3-8-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3720,64 +3876,21 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "gruppe.emittenten",
             "type": "string",
             "constraints": {
               "enum": [
-                "Liegenschaften Landratsamt (witterungsbereinigt)",
-                "Anteil Erneuerbarer Energien (Liegenschaften Landratsamt)",
+                "Abriebemissionen (Reifen, Bremsen)",
+                "Otto Pkw",
+                "Schwere Nutzfahrzeuge",
+                "Krafträder",
+                "Diesel Pkw",
+                "Leichte Nutzfahrzeuge",
+                "Busse",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-1-a"
-    },
-    {
-      "path": "13-3/data.csv",
-      "name": "13-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Emittenten"
           },
           {
             "name": "Value",
@@ -3786,282 +3899,7 @@
           }
         ]
       },
-      "title": "13-3"
-    },
-    {
-      "path": "4-7/data.csv",
-      "name": "4-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "4-7"
-    },
-    {
-      "path": "12-2/data.csv",
-      "name": "12-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-2"
-    },
-    {
-      "path": "5-4/data.csv",
-      "name": "5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Männeranteil im Kreistag des Enzkreises",
-                "Frauenanteil im Kreistag des Enzkreises",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-4"
-    },
-    {
-      "path": "7-1-b/data.csv",
-      "name": "7-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Private Haushalte",
-                "Gewerbe, sonstiges",
-                "Industrie",
-                "Verkehr",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "7-1-b"
-    },
-    {
-      "path": "12-6/data.csv",
-      "name": "12-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "12-6"
-    },
-    {
-      "path": "8-3/data.csv",
-      "name": "8-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                "Land Baden-Württemberg",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Langzeitarbeitslosenquote",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "8-3"
+      "title": "3-8-a"
     },
     {
       "path": "3-5-c/data.csv",
@@ -4109,6 +3947,90 @@
         ]
       },
       "title": "3-5-c"
+    },
+    {
+      "path": "7-1-a/data.csv",
+      "name": "7-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Endenergieverbrauch [kWh]",
+                "Anteil erneuerbarer Energien [%]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Landratsamt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Liegenschaften Landratsamt (witterungsbereinigt)",
+                "Anteil erneuerbarer Energien (Liegenschaften Landratsamt)",
+                ""
+              ]
+            },
+            "title": "Landratsamt"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-1-a"
+    },
+    {
+      "path": "5-4/data.csv",
+      "name": "5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Geschlechterverhältnis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männeranteil im Kreistag des Enzkreises",
+                "Frauenanteil im Kreistag des Enzkreises",
+                ""
+              ]
+            },
+            "title": "Geschlechterverhältnis"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "5-4"
     }
   ]
 }

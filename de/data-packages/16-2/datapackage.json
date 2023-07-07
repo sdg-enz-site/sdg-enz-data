@@ -16,28 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Steuerpotenzial",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Realisiertes Steuerpotenzial je Einwohner - Enzkreis",
+                "Realisiertes Steuerpotenzial je Einwohner - Land BW",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Steuerpotenzial"
           },
           {
             "name": "Value",

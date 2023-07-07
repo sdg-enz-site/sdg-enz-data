@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -16,32 +16,22 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Landschaftsqualität",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Hemerobie-Index Enzkreis",
+                "Hemerobie-Index Stadt PF",
+                "Hemerobie-Index Land BW",
+                "Hemerobie-Index Deutschland",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Landschaftsqualität"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

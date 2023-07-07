@@ -15,23 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Mitteleinsatz (pro Jahr)",
+                "Mitteleinsatz (kumuliert)",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Eigenmittel.Fördermittel",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Aufgewendete Eigenmittel [€]",
+                "Akquirierte Fördermittel [€]",
+                "Aufgewendete Eigenmittel (kumuliert) [€]",
+                "Akquirierte Fördermittel (kumuliert) [€]",
                 ""
               ]
             }

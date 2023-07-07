@@ -1,61 +1,50 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Units,Nutzungsarten,Siedlungs- und Verkehrsfläche,Value
+2015,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,,9267
+2016,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,,9292
+2017,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,,9336
+2018,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,,9378
+2019,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,,9417
+2020,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,,9437
+2021,Flächeninanspruchnahme,Siedlungs- und Verkehrsfläche,,9470
+2015,Flächeninanspruchnahme,Landwirtschaft,,25309
+2016,Flächeninanspruchnahme,Landwirtschaft,,25284
+2017,Flächeninanspruchnahme,Landwirtschaft,,25231
+2018,Flächeninanspruchnahme,Landwirtschaft,,25196
+2019,Flächeninanspruchnahme,Landwirtschaft,,25131
+2020,Flächeninanspruchnahme,Landwirtschaft,,25119
+2021,Flächeninanspruchnahme,Landwirtschaft,,25086
+2015,Flächeninanspruchnahme,Gewässer,,327
+2016,Flächeninanspruchnahme,Gewässer,,327
+2017,Flächeninanspruchnahme,Gewässer,,328
+2018,Flächeninanspruchnahme,Gewässer,,328
+2019,Flächeninanspruchnahme,Gewässer,,338
+2020,Flächeninanspruchnahme,Gewässer,,339
+2021,Flächeninanspruchnahme,Gewässer,,340
+2015,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",,86
+2016,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",,86
+2017,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",,86
+2018,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",,86
+2019,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",,85
+2020,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",,92
+2021,Flächeninanspruchnahme,"Berg-/Tagebau, Grube, Steinbruch",,90
+2015,Flächeninanspruchnahme,Wald,,21827
+2016,Flächeninanspruchnahme,Wald,,21818
+2017,Flächeninanspruchnahme,Wald,,21826
+2018,Flächeninanspruchnahme,Wald,,21820
+2019,Flächeninanspruchnahme,Wald,,21833
+2020,Flächeninanspruchnahme,Wald,,21817
+2021,Flächeninanspruchnahme,Wald,,21818
+2015,Flächenversiegelung,,Siedlungsfläche Enzkreis [ha],5880
+2016,Flächenversiegelung,,Siedlungsfläche Enzkreis [ha],5902
+2017,Flächenversiegelung,,Siedlungsfläche Enzkreis [ha],5942
+2018,Flächenversiegelung,,Siedlungsfläche Enzkreis [ha],5982
+2019,Flächenversiegelung,,Siedlungsfläche Enzkreis [ha],5995
+2020,Flächenversiegelung,,Siedlungsfläche Enzkreis [ha],6019
+2021,Flächenversiegelung,,Siedlungsfläche Enzkreis [ha],6050
+2015,Flächenversiegelung,,Verkehrsfläche Enzkreis [ha],3473
+2016,Flächenversiegelung,,Verkehrsfläche Enzkreis [ha],3475
+2017,Flächenversiegelung,,Verkehrsfläche Enzkreis [ha],3480
+2018,Flächenversiegelung,,Verkehrsfläche Enzkreis [ha],3482
+2019,Flächenversiegelung,,Verkehrsfläche Enzkreis [ha],3507
+2020,Flächenversiegelung,,Verkehrsfläche Enzkreis [ha],3510
+2021,Flächenversiegelung,,Verkehrsfläche Enzkreis [ha],3510

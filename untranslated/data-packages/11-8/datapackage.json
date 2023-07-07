@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Straßenverkehrsunfälle",
+                "Getötete je 100.000 Einwohner",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -26,19 +37,19 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Schadensart",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Unfälle je 100.000 Einwohner",
+                "Verunglückte je 100.000 Einwohner",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

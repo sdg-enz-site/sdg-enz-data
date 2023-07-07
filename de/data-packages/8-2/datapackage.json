@@ -21,14 +21,14 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land Baden-Württemberg",
+                "Land BW",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Beschäftigung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Beschäftigung"
           },
           {
             "name": "Value",

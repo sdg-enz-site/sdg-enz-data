@@ -15,22 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Bruttoinlandsprodukt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land Baden-Württemberg",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bruttoinlandsprodukt",
+                "Bruttoinlandsprodukt - Enzkreis [€ je EW]",
+                "Bruttoinlandsprodukt - Land BW [€ je EW]",
                 ""
               ]
             }

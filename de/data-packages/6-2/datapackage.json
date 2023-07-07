@@ -16,28 +16,40 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Wasserkraftanlagen [Anzahl]",
+                "Umsetzungsgrad [%]",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Wiederherstellung.WKA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wasserkraftanlagen - Anforderungen erfüllt",
-                "Wasserkraftanlagen - Anforderungen noch nicht erfüllt",
-                "Umsetzungsgrad",
+                "Wasserkraftanlagen erfüllen Anforderungen",
+                "Wasserkraftanlagen erfüllen Anforderungen noch nicht",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Wiederherstellung.WKA"
+          },
+          {
+            "name": "Umsetzungsgrad.WKA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wiederherstellung erfolgt [%]",
+                "Wiederherstellung noch nicht erfolgt [%]",
+                ""
+              ]
+            },
+            "title": "Umsetzungsgrad.WKA"
           },
           {
             "name": "Value",

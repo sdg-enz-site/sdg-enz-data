@@ -15,22 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Langzeitarbeitslosigkeit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land Baden-Württemberg",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Langzeitarbeitslosenquote",
+                "Langzeitarbeitslosenquote - Enzkreis [%]",
+                "Langzeitarbeitslosenquote - Land BW [%]",
                 ""
               ]
             }

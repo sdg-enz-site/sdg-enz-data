@@ -1,61 +1,25 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Units,Entwicklungspol.Engagement,Value
+2011,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,2.0
+2012,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,3.0
+2013,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,4.0
+2014,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,3.0
+2015,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,5.0
+2016,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,3.0
+2017,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,4.0
+2018,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,5.0
+2019,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,11.0
+2020,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,11.0
+2021,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,13.0
+2022,Anzahl Projekte,Anzahl entwicklungspolitischer Projekte,13.0
+2011,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.1
+2012,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.16
+2013,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.21
+2014,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.15
+2015,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.26
+2016,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.15
+2017,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.2
+2018,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.25
+2019,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.55
+2020,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.55
+2021,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.65
+2022,Projekte je 10 tsd. Einwohner,Entwicklungspolitische Projekte (je 10 tsd. EW),0.65

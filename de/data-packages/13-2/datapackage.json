@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CO2-Emissionen nach Emittenten [t]",
+                "CO2-Emissionen insgesamt [t]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -27,19 +39,29 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Emittenten",
             "type": "string",
             "constraints": {
               "enum": [
                 "Haushalte",
-                "Gewerbe, sonstiges",
+                "Gewerbe und Sonstiges",
                 "Industrie",
                 "Verkehr",
+                ""
+              ]
+            },
+            "title": "Emittenten"
+          },
+          {
+            "name": "CO2-Emissionen",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "CO2-Emissionen",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "CO2-Emissionen"
           },
           {
             "name": "Value",

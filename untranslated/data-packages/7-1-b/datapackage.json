@@ -15,22 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Sektoren",
             "type": "string",
             "constraints": {
               "enum": [
                 "Private Haushalte",
-                "Gewerbe, sonstiges",
+                "Gewerbe und sonstiges",
                 "Industrie",
                 "Verkehr",
                 ""

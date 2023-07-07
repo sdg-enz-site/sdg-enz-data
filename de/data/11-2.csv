@@ -1,61 +1,34 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Region,Neubauaktivität,Value
+2011,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,267
+2012,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,308
+2013,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,316
+2014,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,354
+2015,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,347
+2016,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,277
+2017,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,302
+2018,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,289
+2019,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,224
+2020,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,340
+2021,Enzkreis,Wohngebäude - Veränderung zum Vorjahr,296
+2011,Enzkreis,Wohnungen - Veränderung zum Vorjahr,342
+2012,Enzkreis,Wohnungen - Veränderung zum Vorjahr,416
+2013,Enzkreis,Wohnungen - Veränderung zum Vorjahr,441
+2014,Enzkreis,Wohnungen - Veränderung zum Vorjahr,506
+2015,Enzkreis,Wohnungen - Veränderung zum Vorjahr,534
+2016,Enzkreis,Wohnungen - Veränderung zum Vorjahr,435
+2017,Enzkreis,Wohnungen - Veränderung zum Vorjahr,471
+2018,Enzkreis,Wohnungen - Veränderung zum Vorjahr,533
+2019,Enzkreis,Wohnungen - Veränderung zum Vorjahr,464
+2020,Enzkreis,Wohnungen - Veränderung zum Vorjahr,540
+2021,Enzkreis,Wohnungen - Veränderung zum Vorjahr,450
+2011,Enzkreis,Wohnräume - Veränderung zum Vorjahr,1935
+2012,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2307
+2013,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2418
+2014,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2611
+2015,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2668
+2016,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2063
+2017,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2330
+2018,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2480
+2019,Enzkreis,Wohnräume - Veränderung zum Vorjahr,1985
+2020,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2678
+2021,Enzkreis,Wohnräume - Veränderung zum Vorjahr,2192

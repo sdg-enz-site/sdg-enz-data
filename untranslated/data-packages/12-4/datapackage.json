@@ -15,23 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Engagement",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Fairtrade Towns",
                 ""
               ]
             }

@@ -15,17 +15,18 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "EEQ-Verbrauch [MWh]",
+                "EEQ-Anteil [%]",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "EEQ",
             "type": "string",
             "constraints": {
               "enum": [

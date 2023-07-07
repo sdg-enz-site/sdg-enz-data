@@ -1,10 +1,10 @@
-Year,Region,gruppe.beschaeftigt,Value
-2020,Enzkreis,Wasserschutzgebiete,31
-2021,Enzkreis,Wasserschutzgebiete,32
-2022,Enzkreis,Wasserschutzgebiete,33
-2020,Enzkreis,Wasserschutzgebiete (fachtechn. abgegrenzt),13
-2021,Enzkreis,Wasserschutzgebiete (fachtechn. abgegrenzt),12
-2022,Enzkreis,Wasserschutzgebiete (fachtechn. abgegrenzt),11
-2020,Enzkreis,Umsetzungsgrad,70
-2021,Enzkreis,Umsetzungsgrad,73
-2022,Enzkreis,Umsetzungsgrad,75
+Year,Units,WSG.Umsetzungsgrad,Value
+2020,Wasserschutzgebiete,Wasserschutzgebiete (rechtskräftig ausgewiesen),31
+2021,Wasserschutzgebiete,Wasserschutzgebiete (rechtskräftig ausgewiesen),32
+2022,Wasserschutzgebiete,Wasserschutzgebiete (rechtskräftig ausgewiesen),33
+2020,Wasserschutzgebiete,Wasserschutzgebiete (fachtechnisch abgegrenzt),13
+2021,Wasserschutzgebiete,Wasserschutzgebiete (fachtechnisch abgegrenzt),12
+2022,Wasserschutzgebiete,Wasserschutzgebiete (fachtechnisch abgegrenzt),11
+2020,Umsetzung,Umsetzungsgrad [%],70
+2021,Umsetzung,Umsetzungsgrad [%],73
+2022,Umsetzung,Umsetzungsgrad [%],75

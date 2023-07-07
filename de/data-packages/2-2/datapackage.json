@@ -28,7 +28,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.betrieb",
+            "name": "Art der Bewirtschaftung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -41,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

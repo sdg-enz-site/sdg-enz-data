@@ -1,61 +1,55 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Units,Region,Schadensart,Value
+2011,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,454.4
+2012,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,444.06
+2013,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,453.29
+2014,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,504.32
+2015,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,409.56
+2016,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,420.79
+2017,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,418.41
+2018,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,441.92
+2019,Straßenverkehrsunfälle,Enzkreis,Unfälle je 100.000 Einwohner,417.43
+2011,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,496.31
+2012,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,487.89
+2013,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,481.24
+2014,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,479.53
+2015,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,473.37
+2016,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,473.87
+2017,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,470.8
+2018,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,463.14
+2019,Straßenverkehrsunfälle,Land BW,Unfälle je 100.000 Einwohner,452.49
+2011,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,442.39
+2012,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,410.22
+2013,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,403.5
+2014,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,480.57
+2015,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,402.93
+2016,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,408.63
+2017,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,406.31
+2018,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,393.66
+2019,Straßenverkehrsunfälle,Enzkreis,Verunglückte je 100.000 Einwohner,400.89
+2011,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,454.59
+2012,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,445.52
+2013,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,433.59
+2014,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,447.1
+2015,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,446.87
+2016,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,442.92
+2017,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,440.04
+2018,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,438.46
+2019,Straßenverkehrsunfälle,Land BW,Verunglückte je 100.000 Einwohner,425.57
+2011,Getötete je 100.000 Einwohner,Enzkreis,,3.7
+2012,Getötete je 100.000 Einwohner,Enzkreis,,3.1
+2013,Getötete je 100.000 Einwohner,Enzkreis,,2.6
+2014,Getötete je 100.000 Einwohner,Enzkreis,,7.2
+2015,Getötete je 100.000 Einwohner,Enzkreis,,3.1
+2016,Getötete je 100.000 Einwohner,Enzkreis,,3.6
+2017,Getötete je 100.000 Einwohner,Enzkreis,,3.5
+2018,Getötete je 100.000 Einwohner,Enzkreis,,4.0
+2019,Getötete je 100.000 Einwohner,Enzkreis,,4.0
+2011,Getötete je 100.000 Einwohner,Land BW,,4.59
+2012,Getötete je 100.000 Einwohner,Land BW,,4.46
+2013,Getötete je 100.000 Einwohner,Land BW,,4.37
+2014,Getötete je 100.000 Einwohner,Land BW,,4.35
+2015,Getötete je 100.000 Einwohner,Land BW,,4.44
+2016,Getötete je 100.000 Einwohner,Land BW,,3.7
+2017,Getötete je 100.000 Einwohner,Land BW,,3.67
+2018,Getötete je 100.000 Einwohner,Land BW,,3.97
+2019,Getötete je 100.000 Einwohner,Land BW,,3.94

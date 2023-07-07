@@ -16,28 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Nutzung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Streuobstwiesenfläche Enzkreis",
+                "Übriges Kreisgebiet Enzkreis",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Nutzung"
           },
           {
             "name": "Value",

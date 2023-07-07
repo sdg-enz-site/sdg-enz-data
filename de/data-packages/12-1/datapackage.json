@@ -16,6 +16,18 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gewinnung und Abgabe [1.000 m³]",
+                "Täglicher Verbrauch pro Kopf [l]",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -28,20 +40,21 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Wassergewinnung und -konsum",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Gewinnung Grund- und Quellwasser",
+                "Wasserabgabe an Letztverbraucher (gesamt)",
+                "Wasserabgabe an Haushalte",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Wassergewinnung und -konsum"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

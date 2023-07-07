@@ -1,61 +1,97 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Units,Abfallart,Abfallaufkommen,Value
+2010,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,588.0
+2011,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,592.0
+2012,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,603.0
+2013,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,587.0
+2014,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,591.0
+2015,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,590.0
+2016,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,645.0
+2017,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,634.0
+2018,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,659.0
+2019,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,610.0
+2020,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,616.0
+2021,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Enzkreis,601.0
+2010,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,475.0
+2011,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,497.0
+2012,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,492.0
+2013,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,486.0
+2014,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,501.0
+2015,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,492.0
+2016,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,494.0
+2017,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,490.0
+2018,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,485.0
+2019,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,487.0
+2020,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,495.0
+2021,Kommunales Abfallaufkommen (gesamt),,Abfallaufkommen [kg/EW] - Land BW,496.0
+2010,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,135.9
+2011,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,147.2
+2012,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,147.5
+2013,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,147.4
+2014,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,142.0
+2015,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,146.7
+2016,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,148.1
+2017,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,141.0
+2018,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,148.9
+2019,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,139.1
+2020,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,165.8
+2021,Aufkommen je Abfallstrom [kg/EW],Haus- und Sperrmüll,,157.2
+2010,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,201.6
+2011,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,203.6
+2012,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,200.1
+2013,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,203.8
+2014,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,199.0
+2015,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,198.7
+2016,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,201.7
+2017,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,197.2
+2018,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,193.2
+2019,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,180.0
+2020,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,213.6
+2021,Aufkommen je Abfallstrom [kg/EW],Wertstoffe,,181.9
+2010,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,232.0
+2011,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,217.7
+2012,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,234.9
+2013,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,217.8
+2014,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,229.2
+2015,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,208.6
+2016,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,247.2
+2017,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,214.2
+2018,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,225.5
+2019,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,193.3
+2020,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,206.9
+2021,Aufkommen je Abfallstrom [kg/EW],Bio- und Grünabfälle,,237.5
+2010,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,6.1
+2011,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,8.5
+2012,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,9.4
+2013,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,5.7
+2014,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,4.5
+2015,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,4.3
+2016,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,3.9
+2017,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,4.0
+2018,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,3.6
+2019,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,3.9
+2020,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,3.1
+2021,Aufkommen je Abfallstrom [kg/EW],Gewerbe- und Baustellenabfälle,,3.7
+2010,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,5.5
+2011,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,5.8
+2012,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,5.6
+2013,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,5.5
+2014,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,5.9
+2015,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,6.4
+2016,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,7.3
+2017,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,8.9
+2018,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,6.1
+2019,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,6.2
+2020,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,6.6
+2021,Aufkommen je Abfallstrom [kg/EW],Elektro-/Elektronikaltgeräte,,5.8
+2010,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,12.7
+2011,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,15.0
+2012,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,11.1
+2013,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,12.6
+2014,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,16.2
+2015,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,31.5
+2016,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,44.3
+2017,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,77.6
+2018,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,87.7
+2019,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,93.9
+2020,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,27.0
+2021,Aufkommen je Abfallstrom [kg/EW],Sonstige Abfälle,,20.4

@@ -26,12 +26,15 @@
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Verkehrsmittel",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "PKW als Fahrer",
+                "PKW als Mitfahrer",
+                "Fahrrad, Pedelec, E-Bike",
+                "ÖPNV",
+                "Fußverkehr",
                 ""
               ]
             }

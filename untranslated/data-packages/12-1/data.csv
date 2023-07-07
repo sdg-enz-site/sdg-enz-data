@@ -1,61 +1,28 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Units,Region,Wassergewinnung und -konsum,Value
+2007,Gewinnung und Abgabe [1.000 m³],,Gewinnung Grund- und Quellwasser,7461.0
+2010,Gewinnung und Abgabe [1.000 m³],,Gewinnung Grund- und Quellwasser,6862.0
+2013,Gewinnung und Abgabe [1.000 m³],,Gewinnung Grund- und Quellwasser,6256.0
+2016,Gewinnung und Abgabe [1.000 m³],,Gewinnung Grund- und Quellwasser,6659.0
+2019,Gewinnung und Abgabe [1.000 m³],,Gewinnung Grund- und Quellwasser,7178.0
+2007,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Letztverbraucher (gesamt),9402.0
+2010,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Letztverbraucher (gesamt),9231.0
+2013,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Letztverbraucher (gesamt),9154.0
+2016,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Letztverbraucher (gesamt),9533.0
+2019,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Letztverbraucher (gesamt),9971.0
+2007,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Haushalte,7618.0
+2010,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Haushalte,7559.0
+2013,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Haushalte,7487.0
+2016,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Haushalte,7976.0
+2019,Gewinnung und Abgabe [1.000 m³],,Wasserabgabe an Haushalte,8756.0
+2007,Täglicher Verbrauch pro Kopf [l],Enzkreis,,106.8
+2010,Täglicher Verbrauch pro Kopf [l],Enzkreis,,106.8
+2013,Täglicher Verbrauch pro Kopf [l],Enzkreis,,106.4
+2016,Täglicher Verbrauch pro Kopf [l],Enzkreis,,110.5
+2019,Täglicher Verbrauch pro Kopf [l],Enzkreis,,119.9
+2021,Täglicher Verbrauch pro Kopf [l],Enzkreis,,119.8
+2007,Täglicher Verbrauch pro Kopf [l],Land BW,,115.9
+2010,Täglicher Verbrauch pro Kopf [l],Land BW,,114.8
+2013,Täglicher Verbrauch pro Kopf [l],Land BW,,115.6
+2016,Täglicher Verbrauch pro Kopf [l],Land BW,,118.1
+2019,Täglicher Verbrauch pro Kopf [l],Land BW,,123.6
+2021,Täglicher Verbrauch pro Kopf [l],Land BW,,123.6

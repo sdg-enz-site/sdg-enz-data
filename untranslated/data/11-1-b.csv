@@ -1,61 +1,41 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Units,Durchschnittspreise,Fläche,Preisentwicklung Deutschland,Value
+2012,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,161.1
+2013,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,155.62
+2014,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,163.13
+2015,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,171.9
+2016,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,167.08
+2017,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,170.34
+2018,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,153.96
+2019,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,206.98
+2020,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,215.95
+2021,Durchschnittspreise (Enzkreis),Bauland [€/m²],,,243.34
+2012,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,183.79
+2013,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,184.08
+2014,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,184.33
+2015,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,190.35
+2016,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,182.38
+2017,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,193.01
+2018,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,205.54
+2019,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,227.44
+2020,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,245.3
+2021,Durchschnittspreise (Enzkreis),Baureifes Land [€/m²],,,309.44
+2012,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,4860.0
+2013,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,4834.0
+2014,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,5136.0
+2015,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,5453.0
+2016,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,5105.0
+2017,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,4152.0
+2018,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,4309.0
+2019,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,4594.0
+2020,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,4478.0
+2021,Fläche - Baureifes Land (Enzkreis),,Fläche - Baureifes Land Enzkreis  [1.000 m²],,3451.0
+2012,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,82.8
+2013,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,87.9
+2014,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,93.4
+2015,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,100.0
+2016,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,110.0
+2017,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,122.7
+2018,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,134.5
+2019,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,146.1
+2020,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,156.1
+2021,Preisindex für Bauland (Deutschland),,,Preisindex Deutschland,187.5

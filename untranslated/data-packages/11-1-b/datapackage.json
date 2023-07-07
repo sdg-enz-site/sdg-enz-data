@@ -15,30 +15,51 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Durchschnittspreise (Enzkreis)",
+                "Fläche - Baureifes Land (Enzkreis)",
+                "Preisindex für Bauland (Deutschland)",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Durchschnittspreise",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Bauland [€/m²]",
+                "Baureifes Land [€/m²]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fläche",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fläche - Baureifes Land Enzkreis  [1.000 m²]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Preisentwicklung Deutschland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Preisindex Deutschland",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

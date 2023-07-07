@@ -16,29 +16,18 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Sektoren",
             "type": "string",
             "constraints": {
               "enum": [
                 "Private Haushalte",
-                "Gewerbe, sonstiges",
+                "Gewerbe und sonstiges",
                 "Industrie",
                 "Verkehr",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Sektoren"
           },
           {
             "name": "Value",

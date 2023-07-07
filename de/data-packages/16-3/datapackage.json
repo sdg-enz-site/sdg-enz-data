@@ -16,28 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Aufwendungen.Verschuldung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Ordentliche Aufwendungen (Enzkreis)",
+                "Verschuldung im Kernhaushalt (Enzkreis)",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Aufwendungen.Verschuldung"
           },
           {
             "name": "Value",

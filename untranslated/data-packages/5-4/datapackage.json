@@ -15,17 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Geschlechterverhältnis",
             "type": "string",
             "constraints": {
               "enum": [

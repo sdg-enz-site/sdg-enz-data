@@ -1,13 +1,13 @@
-Year,Region,gruppe.beschaeftigt,Value
-2017,Enzkreis,Normalladepunkte,2
-2018,Enzkreis,Normalladepunkte,5
-2019,Enzkreis,Normalladepunkte,33
-2020,Enzkreis,Normalladepunkte,57
-2021,Enzkreis,Normalladepunkte,109
-2022,Enzkreis,Normalladepunkte,129
-2017,Enzkreis,Schnellladepunkte,4
-2018,Enzkreis,Schnellladepunkte,7
-2019,Enzkreis,Schnellladepunkte,11
-2020,Enzkreis,Schnellladepunkte,11
-2021,Enzkreis,Schnellladepunkte,15
-2022,Enzkreis,Schnellladepunkte,24
+Year,Ladesäuleninfrastruktur,Value
+2017,Normalladepunkte (Enzkreis),2
+2018,Normalladepunkte (Enzkreis),5
+2019,Normalladepunkte (Enzkreis),33
+2020,Normalladepunkte (Enzkreis),57
+2021,Normalladepunkte (Enzkreis),109
+2022,Normalladepunkte (Enzkreis),129
+2017,Schnellladepunkte (Enzkreis),4
+2018,Schnellladepunkte (Enzkreis),7
+2019,Schnellladepunkte (Enzkreis),11
+2020,Schnellladepunkte (Enzkreis),11
+2021,Schnellladepunkte (Enzkreis),15
+2022,Schnellladepunkte (Enzkreis),24

@@ -1,27 +1,27 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Bruttoinlandsprodukt,24012
-2008,Enzkreis,Bruttoinlandsprodukt,23802
-2009,Enzkreis,Bruttoinlandsprodukt,21234
-2010,Enzkreis,Bruttoinlandsprodukt,23379
-2011,Enzkreis,Bruttoinlandsprodukt,25790
-2012,Enzkreis,Bruttoinlandsprodukt,25845
-2013,Enzkreis,Bruttoinlandsprodukt,25835
-2014,Enzkreis,Bruttoinlandsprodukt,26992
-2015,Enzkreis,Bruttoinlandsprodukt,28172
-2016,Enzkreis,Bruttoinlandsprodukt,29042
-2017,Enzkreis,Bruttoinlandsprodukt,30320
-2018,Enzkreis,Bruttoinlandsprodukt,31031
-2019,Enzkreis,Bruttoinlandsprodukt,27781
-2007,Land Baden-Württemberg,Bruttoinlandsprodukt,35082
-2008,Land Baden-Württemberg,Bruttoinlandsprodukt,35489
-2009,Land Baden-Württemberg,Bruttoinlandsprodukt,33085
-2010,Land Baden-Württemberg,Bruttoinlandsprodukt,35793
-2011,Land Baden-Württemberg,Bruttoinlandsprodukt,38617
-2012,Land Baden-Württemberg,Bruttoinlandsprodukt,39141
-2013,Land Baden-Württemberg,Bruttoinlandsprodukt,39813
-2014,Land Baden-Württemberg,Bruttoinlandsprodukt,40807
-2015,Land Baden-Württemberg,Bruttoinlandsprodukt,42304
-2016,Land Baden-Württemberg,Bruttoinlandsprodukt,43488
-2017,Land Baden-Württemberg,Bruttoinlandsprodukt,44918
-2018,Land Baden-Württemberg,Bruttoinlandsprodukt,46383
-2019,Land Baden-Württemberg,Bruttoinlandsprodukt,42398
+Year,Bruttoinlandsprodukt,Value
+2007,Bruttoinlandsprodukt - Enzkreis [€ je EW],24012
+2008,Bruttoinlandsprodukt - Enzkreis [€ je EW],23802
+2009,Bruttoinlandsprodukt - Enzkreis [€ je EW],21234
+2010,Bruttoinlandsprodukt - Enzkreis [€ je EW],23379
+2011,Bruttoinlandsprodukt - Enzkreis [€ je EW],25790
+2012,Bruttoinlandsprodukt - Enzkreis [€ je EW],25845
+2013,Bruttoinlandsprodukt - Enzkreis [€ je EW],25835
+2014,Bruttoinlandsprodukt - Enzkreis [€ je EW],26992
+2015,Bruttoinlandsprodukt - Enzkreis [€ je EW],28172
+2016,Bruttoinlandsprodukt - Enzkreis [€ je EW],29042
+2017,Bruttoinlandsprodukt - Enzkreis [€ je EW],30320
+2018,Bruttoinlandsprodukt - Enzkreis [€ je EW],31031
+2019,Bruttoinlandsprodukt - Enzkreis [€ je EW],27781
+2007,Bruttoinlandsprodukt - Land BW [€ je EW],35082
+2008,Bruttoinlandsprodukt - Land BW [€ je EW],35489
+2009,Bruttoinlandsprodukt - Land BW [€ je EW],33085
+2010,Bruttoinlandsprodukt - Land BW [€ je EW],35793
+2011,Bruttoinlandsprodukt - Land BW [€ je EW],38617
+2012,Bruttoinlandsprodukt - Land BW [€ je EW],39141
+2013,Bruttoinlandsprodukt - Land BW [€ je EW],39813
+2014,Bruttoinlandsprodukt - Land BW [€ je EW],40807
+2015,Bruttoinlandsprodukt - Land BW [€ je EW],42304
+2016,Bruttoinlandsprodukt - Land BW [€ je EW],43488
+2017,Bruttoinlandsprodukt - Land BW [€ je EW],44918
+2018,Bruttoinlandsprodukt - Land BW [€ je EW],46383
+2019,Bruttoinlandsprodukt - Land BW [€ je EW],42398

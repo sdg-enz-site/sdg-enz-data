@@ -16,31 +16,34 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
+                "Sozialversicherungspflichtige Beschäftigung (abs.)",
+                "Sozialversicherungspflichtige Beschäftigung (%)",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Beschäftigung.Enzkreis",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sozialversicherungspflichtig beschäftigte Männer",
-                "Sozialversicherungspflichtig beschäftigte Frauen",
-                "Männer in Teilzeit",
-                "Frauen in Teilzeit",
+                "Sozialversicherungspflichtig beschäftigte Männer (abs.)",
+                "Sozialversicherungspflichtig beschäftigte Frauen (abs.)",
+                "Männer in Teilzeit (abs.)",
+                "Frauen in Teilzeit (abs.)",
                 "Sozialversicherungspflichtig beschäftigte Frauen [%]",
-                "Sozialversicherungspflichtig beschäftigte Frauen in Teilzeit [%]",
+                "Sozialversicherungspflichtig beschäftigte Männer [%]",
+                "Svb Frauen in Teilzeit [%]",
+                "Svb Männer in Teilzeit [%]",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Beschäftigung.Enzkreis"
           },
           {
             "name": "Value",

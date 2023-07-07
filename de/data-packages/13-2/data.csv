@@ -1,41 +1,41 @@
-Year,Region,gruppe.beschaeftigt,Value
-2012,Enzkreis,Haushalte,595616
-2013,Enzkreis,Haushalte,578933
-2014,Enzkreis,Haushalte,519915
-2015,Enzkreis,Haushalte,525639
-2016,Enzkreis,Haushalte,451348
-2017,Enzkreis,Haushalte,455395
-2018,Enzkreis,Haushalte,484318
-2019,Enzkreis,Haushalte,488817
-2012,Enzkreis,"Gewerbe, sonstiges",131797
-2013,Enzkreis,"Gewerbe, sonstiges",124106
-2014,Enzkreis,"Gewerbe, sonstiges",127055
-2015,Enzkreis,"Gewerbe, sonstiges",116016
-2016,Enzkreis,"Gewerbe, sonstiges",174947
-2017,Enzkreis,"Gewerbe, sonstiges",181473
-2018,Enzkreis,"Gewerbe, sonstiges",159175
-2019,Enzkreis,"Gewerbe, sonstiges",112801
-2012,Enzkreis,Industrie,376234
-2013,Enzkreis,Industrie,374520
-2014,Enzkreis,Industrie,370022
-2015,Enzkreis,Industrie,360008
-2016,Enzkreis,Industrie,398039
-2017,Enzkreis,Industrie,400634
-2018,Enzkreis,Industrie,385248
-2019,Enzkreis,Industrie,360205
-2012,Enzkreis,Verkehr,448394
-2013,Enzkreis,Verkehr,450824
-2014,Enzkreis,Verkehr,478816
-2015,Enzkreis,Verkehr,478769
-2016,Enzkreis,Verkehr,520799
-2017,Enzkreis,Verkehr,525202
-2018,Enzkreis,Verkehr,529223
-2019,Enzkreis,Verkehr,527476
-2012,Enzkreis,CO2-Emissionen,1552041
-2013,Enzkreis,CO2-Emissionen,1528383
-2014,Enzkreis,CO2-Emissionen,1495808
-2015,Enzkreis,CO2-Emissionen,1480432
-2016,Enzkreis,CO2-Emissionen,1545133
-2017,Enzkreis,CO2-Emissionen,1562704
-2018,Enzkreis,CO2-Emissionen,1557964
-2019,Enzkreis,CO2-Emissionen,1489299
+Year,Units,Region,Emittenten,CO2-Emissionen,Value
+2012,CO2-Emissionen nach Emittenten [t],Enzkreis,Haushalte,,595616
+2013,CO2-Emissionen nach Emittenten [t],Enzkreis,Haushalte,,578933
+2014,CO2-Emissionen nach Emittenten [t],Enzkreis,Haushalte,,519915
+2015,CO2-Emissionen nach Emittenten [t],Enzkreis,Haushalte,,525639
+2016,CO2-Emissionen nach Emittenten [t],Enzkreis,Haushalte,,451348
+2017,CO2-Emissionen nach Emittenten [t],Enzkreis,Haushalte,,455395
+2018,CO2-Emissionen nach Emittenten [t],Enzkreis,Haushalte,,484318
+2019,CO2-Emissionen nach Emittenten [t],Enzkreis,Haushalte,,488817
+2012,CO2-Emissionen nach Emittenten [t],Enzkreis,Gewerbe und Sonstiges,,131797
+2013,CO2-Emissionen nach Emittenten [t],Enzkreis,Gewerbe und Sonstiges,,124106
+2014,CO2-Emissionen nach Emittenten [t],Enzkreis,Gewerbe und Sonstiges,,127055
+2015,CO2-Emissionen nach Emittenten [t],Enzkreis,Gewerbe und Sonstiges,,116016
+2016,CO2-Emissionen nach Emittenten [t],Enzkreis,Gewerbe und Sonstiges,,174947
+2017,CO2-Emissionen nach Emittenten [t],Enzkreis,Gewerbe und Sonstiges,,181473
+2018,CO2-Emissionen nach Emittenten [t],Enzkreis,Gewerbe und Sonstiges,,159175
+2019,CO2-Emissionen nach Emittenten [t],Enzkreis,Gewerbe und Sonstiges,,112801
+2012,CO2-Emissionen nach Emittenten [t],Enzkreis,Industrie,,376234
+2013,CO2-Emissionen nach Emittenten [t],Enzkreis,Industrie,,374520
+2014,CO2-Emissionen nach Emittenten [t],Enzkreis,Industrie,,370022
+2015,CO2-Emissionen nach Emittenten [t],Enzkreis,Industrie,,360008
+2016,CO2-Emissionen nach Emittenten [t],Enzkreis,Industrie,,398039
+2017,CO2-Emissionen nach Emittenten [t],Enzkreis,Industrie,,400634
+2018,CO2-Emissionen nach Emittenten [t],Enzkreis,Industrie,,385248
+2019,CO2-Emissionen nach Emittenten [t],Enzkreis,Industrie,,360205
+2012,CO2-Emissionen nach Emittenten [t],Enzkreis,Verkehr,,448394
+2013,CO2-Emissionen nach Emittenten [t],Enzkreis,Verkehr,,450824
+2014,CO2-Emissionen nach Emittenten [t],Enzkreis,Verkehr,,478816
+2015,CO2-Emissionen nach Emittenten [t],Enzkreis,Verkehr,,478769
+2016,CO2-Emissionen nach Emittenten [t],Enzkreis,Verkehr,,520799
+2017,CO2-Emissionen nach Emittenten [t],Enzkreis,Verkehr,,525202
+2018,CO2-Emissionen nach Emittenten [t],Enzkreis,Verkehr,,529223
+2019,CO2-Emissionen nach Emittenten [t],Enzkreis,Verkehr,,527476
+2012,CO2-Emissionen insgesamt [t],Enzkreis,,CO2-Emissionen,1552041
+2013,CO2-Emissionen insgesamt [t],Enzkreis,,CO2-Emissionen,1528383
+2014,CO2-Emissionen insgesamt [t],Enzkreis,,CO2-Emissionen,1495808
+2015,CO2-Emissionen insgesamt [t],Enzkreis,,CO2-Emissionen,1480432
+2016,CO2-Emissionen insgesamt [t],Enzkreis,,CO2-Emissionen,1545133
+2017,CO2-Emissionen insgesamt [t],Enzkreis,,CO2-Emissionen,1562704
+2018,CO2-Emissionen insgesamt [t],Enzkreis,,CO2-Emissionen,1557964
+2019,CO2-Emissionen insgesamt [t],Enzkreis,,CO2-Emissionen,1489299

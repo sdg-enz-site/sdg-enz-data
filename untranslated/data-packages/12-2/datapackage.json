@@ -15,30 +15,45 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Kommunales Abfallaufkommen (gesamt)",
+                "Aufkommen je Abfallstrom [kg/EW]",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Abfallart",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Haus- und Sperrmüll",
+                "Wertstoffe",
+                "Bio- und Grünabfälle",
+                "Gewerbe- und Baustellenabfälle",
+                "Elektro-/Elektronikaltgeräte",
+                "Sonstige Abfälle",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Abfallaufkommen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abfallaufkommen [kg/EW] - Enzkreis",
+                "Abfallaufkommen [kg/EW] - Land BW",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

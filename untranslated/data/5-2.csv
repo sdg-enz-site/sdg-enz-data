@@ -1,31 +1,31 @@
-Year,Region,gruppe.beschaeftigt,Value
-2014,Enzkreis,Medianeinkommen gesamt,3117
-2015,Enzkreis,Medianeinkommen gesamt,3169
-2016,Enzkreis,Medianeinkommen gesamt,3208
-2017,Enzkreis,Medianeinkommen gesamt,3275
-2018,Enzkreis,Medianeinkommen gesamt,3384
-2019,Enzkreis,Medianeinkommen gesamt,3450
-2014,Enzkreis,Medianeinkommen - Männer,3361
-2015,Enzkreis,Medianeinkommen - Männer,3413
-2016,Enzkreis,Medianeinkommen - Männer,3441
-2017,Enzkreis,Medianeinkommen - Männer,3506
-2018,Enzkreis,Medianeinkommen - Männer,3620
-2019,Enzkreis,Medianeinkommen - Männer,3678
-2014,Enzkreis,Medianeinkommen - Frauen,2550
-2015,Enzkreis,Medianeinkommen - Frauen,2599
-2016,Enzkreis,Medianeinkommen - Frauen,2644
-2017,Enzkreis,Medianeinkommen - Frauen,2693
-2018,Enzkreis,Medianeinkommen - Frauen,2803
-2019,Enzkreis,Medianeinkommen - Frauen,2859
-2014,Enzkreis,Verdienstabstand Frauen - Männer,76
-2015,Enzkreis,Verdienstabstand Frauen - Männer,76
-2016,Enzkreis,Verdienstabstand Frauen - Männer,77
-2017,Enzkreis,Verdienstabstand Frauen - Männer,77
-2018,Enzkreis,Verdienstabstand Frauen - Männer,77
-2019,Enzkreis,Verdienstabstand Frauen - Männer,78
-2014,Land BW,Verdienstabstand Frauen - Männer,78
-2015,Land BW,Verdienstabstand Frauen - Männer,79
-2016,Land BW,Verdienstabstand Frauen - Männer,79
-2017,Land BW,Verdienstabstand Frauen - Männer,79
-2018,Land BW,Verdienstabstand Frauen - Männer,78
-2019,Land BW,Verdienstabstand Frauen - Männer,79
+Year,Units,Einkommensverteilung,Value
+2014,Medianeinkommen [€],Medianeinkommen - gesamt [€],3117
+2015,Medianeinkommen [€],Medianeinkommen - gesamt [€],3169
+2016,Medianeinkommen [€],Medianeinkommen - gesamt [€],3208
+2017,Medianeinkommen [€],Medianeinkommen - gesamt [€],3275
+2018,Medianeinkommen [€],Medianeinkommen - gesamt [€],3384
+2019,Medianeinkommen [€],Medianeinkommen - gesamt [€],3450
+2014,Medianeinkommen [€],Medianeinkommen - Männer [€],3361
+2015,Medianeinkommen [€],Medianeinkommen - Männer [€],3413
+2016,Medianeinkommen [€],Medianeinkommen - Männer [€],3441
+2017,Medianeinkommen [€],Medianeinkommen - Männer [€],3506
+2018,Medianeinkommen [€],Medianeinkommen - Männer [€],3620
+2019,Medianeinkommen [€],Medianeinkommen - Männer [€],3678
+2014,Medianeinkommen [€],Medianeinkommen - Frauen [€],2550
+2015,Medianeinkommen [€],Medianeinkommen - Frauen [€],2599
+2016,Medianeinkommen [€],Medianeinkommen - Frauen [€],2644
+2017,Medianeinkommen [€],Medianeinkommen - Frauen [€],2693
+2018,Medianeinkommen [€],Medianeinkommen - Frauen [€],2803
+2019,Medianeinkommen [€],Medianeinkommen - Frauen [€],2859
+2014,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Enzkreis [%],76
+2015,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Enzkreis [%],76
+2016,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Enzkreis [%],77
+2017,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Enzkreis [%],77
+2018,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Enzkreis [%],77
+2019,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Enzkreis [%],78
+2014,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Land BW [%],78
+2015,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Land BW [%],79
+2016,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Land BW [%],79
+2017,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Land BW [%],79
+2018,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Land BW [%],78
+2019,Verdienstabstand [%],Verdienstabstand Frauen und Männer - Land BW [%],79

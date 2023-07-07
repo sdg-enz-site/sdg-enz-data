@@ -16,28 +16,15 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Klimaschutzpakt BW",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Unterstützer im Enzkreis",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Klimaschutzpakt BW"
           },
           {
             "name": "Value",

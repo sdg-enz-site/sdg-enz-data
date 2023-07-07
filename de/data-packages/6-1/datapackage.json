@@ -16,28 +16,29 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Enzkreis",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Wasserschutzgebiete",
-                "Wasserschutzgebiete (fachtechn. abgegrenzt)",
-                "Umsetzungsgrad",
+                "Umsetzung",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Units"
+          },
+          {
+            "name": "WSG.Umsetzungsgrad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wasserschutzgebiete (rechtskräftig ausgewiesen)",
+                "Wasserschutzgebiete (fachtechnisch abgegrenzt)",
+                "Umsetzungsgrad [%]",
+                ""
+              ]
+            },
+            "title": "WSG.Umsetzungsgrad"
           },
           {
             "name": "Value",

@@ -15,30 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Fragmentierung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Unzerschnittene Freiraumflächen [>50 km2] - Enzkreis",
+                "Unzerschnittene Freiraumflächen [>50 km2] - Land BW",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

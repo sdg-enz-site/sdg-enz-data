@@ -1,33 +1,33 @@
-Year,Region,gruppe.beschaeftigt,Value
-2012,Enzkreis,Private Haushalte,1717067
-2013,Enzkreis,Private Haushalte,1663682
-2014,Enzkreis,Private Haushalte,1511797
-2015,Enzkreis,Private Haushalte,1564260
-2016,Enzkreis,Private Haushalte,1500265
-2017,Enzkreis,Private Haushalte,1547430
-2018,Enzkreis,Private Haushalte,1625088
-2019,Enzkreis,Private Haushalte,1790508
-2012,Enzkreis,"Gewerbe, sonstiges",340234
-2013,Enzkreis,"Gewerbe, sonstiges",325598
-2014,Enzkreis,"Gewerbe, sonstiges",330445
-2015,Enzkreis,"Gewerbe, sonstiges",320364
-2016,Enzkreis,"Gewerbe, sonstiges",579789
-2017,Enzkreis,"Gewerbe, sonstiges",601883
-2018,Enzkreis,"Gewerbe, sonstiges",503102
-2019,Enzkreis,"Gewerbe, sonstiges",389982
-2012,Enzkreis,Industrie,780777
-2013,Enzkreis,Industrie,784022
-2014,Enzkreis,Industrie,775365
-2015,Enzkreis,Industrie,787421
-2016,Enzkreis,Industrie,899004
-2017,Enzkreis,Industrie,933372
-2018,Enzkreis,Industrie,919857
-2019,Enzkreis,Industrie,939244
-2012,Enzkreis,Verkehr,1426582
-2013,Enzkreis,Verkehr,1434365
-2014,Enzkreis,Verkehr,1524483
-2015,Enzkreis,Verkehr,1508342
-2016,Enzkreis,Verkehr,1651666
-2017,Enzkreis,Verkehr,1665070
-2018,Enzkreis,Verkehr,1685728
-2019,Enzkreis,Verkehr,1677516
+Year,Sektoren,Value
+2012,Private Haushalte,1717067
+2013,Private Haushalte,1663682
+2014,Private Haushalte,1511797
+2015,Private Haushalte,1564260
+2016,Private Haushalte,1500265
+2017,Private Haushalte,1547430
+2018,Private Haushalte,1625088
+2019,Private Haushalte,1790508
+2012,Gewerbe und sonstiges,340234
+2013,Gewerbe und sonstiges,325598
+2014,Gewerbe und sonstiges,330445
+2015,Gewerbe und sonstiges,320364
+2016,Gewerbe und sonstiges,579789
+2017,Gewerbe und sonstiges,601883
+2018,Gewerbe und sonstiges,503102
+2019,Gewerbe und sonstiges,389982
+2012,Industrie,780777
+2013,Industrie,784022
+2014,Industrie,775365
+2015,Industrie,787421
+2016,Industrie,899004
+2017,Industrie,933372
+2018,Industrie,919857
+2019,Industrie,939244
+2012,Verkehr,1426582
+2013,Verkehr,1434365
+2014,Verkehr,1524483
+2015,Verkehr,1508342
+2016,Verkehr,1651666
+2017,Verkehr,1665070
+2018,Verkehr,1685728
+2019,Verkehr,1677516

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -15,22 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Ladesäuleninfrastruktur",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normalladepunkte",
-                "Schnellladepunkte",
+                "Normalladepunkte (Enzkreis)",
+                "Schnellladepunkte (Enzkreis)",
                 ""
               ]
             }

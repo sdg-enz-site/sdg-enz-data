@@ -16,32 +16,32 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Anzahl Projekte",
+                "Projekte je 10 tsd. Einwohner",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Entwicklungspol.Engagement",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Anzahl entwicklungspolitischer Projekte",
+                "Entwicklungspolitische Projekte (je 10 tsd. EW)",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Entwicklungspol.Engagement"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

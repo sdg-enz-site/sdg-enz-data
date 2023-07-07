@@ -1,16 +1,16 @@
 Year,Region,Breitbandversorgung,Value
-2015,Enzkreis,Breitbandversorgung (>50 Mbit/s),64.0
-2016,Enzkreis,Breitbandversorgung (>50 Mbit/s),71.0
-2017,Enzkreis,Breitbandversorgung (>50 Mbit/s),74.0
-2018,Enzkreis,Breitbandversorgung (>50 Mbit/s),84.0
-2019,Enzkreis,Breitbandversorgung (>50 Mbit/s),87.8
-2015,Stadt Pforzheim,Breitbandversorgung (>50 Mbit/s),89.0
-2016,Stadt Pforzheim,Breitbandversorgung (>50 Mbit/s),96.8
-2017,Stadt Pforzheim,Breitbandversorgung (>50 Mbit/s),96.9
-2018,Stadt Pforzheim,Breitbandversorgung (>50 Mbit/s),97.4
-2019,Stadt Pforzheim,Breitbandversorgung (>50 Mbit/s),98.0
-2015,Land BW,Breitbandversorgung (>50 Mbit/s),71.6
-2016,Land BW,Breitbandversorgung (>50 Mbit/s),77.3
-2017,Land BW,Breitbandversorgung (>50 Mbit/s),81.3
-2018,Land BW,Breitbandversorgung (>50 Mbit/s),87.0
-2019,Land BW,Breitbandversorgung (>50 Mbit/s),90.0
+2015,Enzkreis,Breitbandversorgung (≥50 Mbit/s),64.0
+2016,Enzkreis,Breitbandversorgung (≥50 Mbit/s),71.0
+2017,Enzkreis,Breitbandversorgung (≥50 Mbit/s),74.0
+2018,Enzkreis,Breitbandversorgung (≥50 Mbit/s),84.0
+2019,Enzkreis,Breitbandversorgung (≥50 Mbit/s),87.8
+2015,Stadt Pforzheim,Breitbandversorgung (≥50 Mbit/s),89.0
+2016,Stadt Pforzheim,Breitbandversorgung (≥50 Mbit/s),96.8
+2017,Stadt Pforzheim,Breitbandversorgung (≥50 Mbit/s),96.9
+2018,Stadt Pforzheim,Breitbandversorgung (≥50 Mbit/s),97.4
+2019,Stadt Pforzheim,Breitbandversorgung (≥50 Mbit/s),98.0
+2015,Land BW,Breitbandversorgung (≥50 Mbit/s),71.6
+2016,Land BW,Breitbandversorgung (≥50 Mbit/s),77.3
+2017,Land BW,Breitbandversorgung (≥50 Mbit/s),81.3
+2018,Land BW,Breitbandversorgung (≥50 Mbit/s),87.0
+2019,Land BW,Breitbandversorgung (≥50 Mbit/s),90.0

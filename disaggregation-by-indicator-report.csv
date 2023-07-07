@@ -2,43 +2,43 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1,Region,1
 #1-2-a,"Region, grupp.armut",2
 #1-2-b,"Region, gruppe.grund",2
-#10-1,"Region, gruppe.beschaeftigt",2
-#10-2,"Region, gruppe.beschaeftigt",2
-#10-3,"Region, gruppe.beschaeftigt",2
-#10-4,"Region, gruppe.beschaeftigt",2
-#11-1-a,"Region, gruppe.beschaeftigt",2
-#11-1-b,"Region, gruppe.beschaeftigt",2
-#11-2,"Region, gruppe.beschaeftigt",2
-#11-3,"Region, gruppe.beschaeftigt",2
-#11-4,"Region, gruppe.beschaeftigt",2
-#11-5,"Region, gruppe.beschaeftigt",2
-#11-6,"Region, gruppe.beschaeftigt",2
-#11-7,"Region, gruppe.beschaeftigt",2
-#11-8,"Region, gruppe.beschaeftigt",2
-#11-9,"Region, gruppe.beschaeftigt",2
-#12-1,"Region, gruppe.beschaeftigt",2
-#12-2,"Region, gruppe.beschaeftigt",2
-#12-3,"Region, gruppe.beschaeftigt",2
-#12-4,"Region, gruppe.beschaeftigt",2
-#12-5,"Region, gruppe.beschaeftigt",2
-#12-6,"Region, gruppe.beschaeftigt",2
-#13-1-a,"Region, gruppe.beschaeftigt",2
-#13-1-b,"Region, gruppe.beschaeftigt",2
-#13-2,"Region, gruppe.beschaeftigt",2
-#13-3,"Region, gruppe.beschaeftigt",2
-#14-1,"Region, gruppe.beschaeftigt",2
-#15-1,"Region, gruppe.beschaeftigt",2
-#15-2,"Region, gruppe.beschaeftigt",2
-#15-3,"Region, gruppe.beschaeftigt",2
-#15-4,"Region, gruppe.beschaeftigt",2
-#15-5,"Region, gruppe.beschaeftigt",2
-#16-1,"Region, gruppe.beschaeftigt",2
-#16-2,"Region, gruppe.beschaeftigt",2
-#16-3,"Region, gruppe.beschaeftigt",2
-#16-4,"Region, gruppe.beschaeftigt",2
-#17-3,"Region, gruppe.beschaeftigt",2
+#10-1,"Region, Einkommensklassen",2
+#10-2,"Region, Beschäftigungsquote",2
+#10-3,"Region, Schulabbrecherquote",2
+#10-4,"Geschlecht, Alter",2
+#11-1-a,"Region, Mietpreise",2
+#11-1-b,"Durchschnittspreise, Fläche, Preisentwicklung Deutschland",3
+#11-2,"Region, Neubauaktivität",2
+#11-3,Region,1
+#11-4,Region,1
+#11-5,"Nutzungsarten, Siedlungs- und Verkehrsfläche",2
+#11-6,"Region, Fahrzeugart",2
+#11-7,"Region, Verkehrsmittel",2
+#11-8,"Region, Schadensart",2
+#12-1,"Region, Wassergewinnung und -konsum",2
+#12-2,"Abfallart, Abfallaufkommen",2
+#12-3,WIN-Charta BW,1
+#12-4,Engagement,1
+#12-5,Recyclingpapier,1
+#12-6,Nachhaltige Antriebstechniken,1
+#13-1-a,"Region, Emittenten",2
+#13-1-b,"Region, Emittenten",2
+#13-2,"Region, Emittenten, CO2-Emissionen",3
+#13-3,Klimaschutzpakt BW,1
+#14-1,Abwasserentsorgung,1
+#15-1,Landschaftsqualität,1
+#15-2,Fragmentierung,1
+#15-3,Nutzung,1
+#15-4,Schutzgebiet,1
+#15-5,Schutzgebiete.Wald,1
+#16-1,Straftaten,1
+#16-2,Steuerpotenzial,1
+#16-3,Aufwendungen.Verschuldung,1
+#16-4,Politische.Partizipation,1
+#17-2,Eigenmittel.Fördermittel,1
+#17-3,Agenda.2030,1
 #2-1,"Region, gruppe.gewicht",2
-#2-2,"Region, gruppe.betrieb",2
+#2-2,"Region, Art der Bewirtschaftung",2
 #2-3,"Region, gruppe.stickstoffüberschuss",2
 #3-2,"Region, gruppe.betten",2
 #3-3,"Region, gruppe.geschlecht",2
@@ -52,6 +52,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-8-a,"Region, gruppe.emittenten",2
 #3-8-b,"Region, gruppe.emittenten",2
 #4-1-a,"Region, gruppe.betreuung",2
+#4-1-b,"Region, Betreuung",2
 #4-2,Region,1
 #4-3,"Region, gruppe.abschluss",2
 #4-4,"gruppe.sektor, gruppe.gesamt",2
@@ -59,19 +60,19 @@ Indicator,Disaggregations,Number of disaggregations
 #4-6,Region,1
 #4-7,Region,1
 #4-8,gruppe.schule,1
-#5-1,"Region, gruppe.beschaeftigt",2
-#5-2,"Region, gruppe.beschaeftigt",2
-#5-3,"Region, gruppe.beschaeftigt",2
-#5-4,"Region, gruppe.beschaeftigt",2
-#6-1,"Region, gruppe.beschaeftigt",2
-#6-2,"Region, gruppe.beschaeftigt",2
-#7-1-a,"Region, gruppe.beschaeftigt",2
-#7-1-b,"Region, gruppe.beschaeftigt",2
-#7-2,"Region, gruppe.beschaeftigt",2
-#7-3,"Region, gruppe.beschaeftigt",2
-#8-1,"Region, gruppe.beschaeftigt",2
-#8-2,"Region, gruppe.beschaeftigt",2
-#8-3,"Region, gruppe.beschaeftigt",2
+#5-1,Beschäftigung.Enzkreis,1
+#5-2,Einkommensverteilung,1
+#5-3,Verhältnis,1
+#5-4,Geschlechterverhältnis,1
+#6-1,WSG.Umsetzungsgrad,1
+#6-2,"Wiederherstellung.WKA, Umsetzungsgrad.WKA",2
+#7-1-a,Landratsamt,1
+#7-1-b,Sektoren,1
+#7-2,EEQ,1
+#7-3,Ladesäuleninfrastruktur,1
+#8-1,Bruttoinlandsprodukt,1
+#8-2,"Region, Beschäftigung",2
+#8-3,Langzeitarbeitslosigkeit,1
 #8-4,"Region, Erwerbsaufstocker",2
 #9-1,"Region, Existenzgründungen",2
 #9-2,Region,1

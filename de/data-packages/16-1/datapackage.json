@@ -16,28 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Straftaten",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Straftaten je 1.000 Einwohner/-innen (Enzkreis)",
+                "Straftaten je 1.000 Einwohner/-innen (Land BW)",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
-                ""
-              ]
-            },
-            "title": "gruppe.beschaeftigt"
+            "title": "Straftaten"
           },
           {
             "name": "Value",

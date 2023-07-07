@@ -16,28 +16,42 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Anzahl der Personen nach Geschlecht",
+                "Anzahl der Personen nach Alter",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Frauen",
+                "Männer",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Alter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unter 18-Jährige",
+                "18- bis unter 30-Jährige",
+                "30- bis unter 50-Jährige",
+                "50-Jährige und älter",
+                ""
+              ]
+            },
+            "title": "Alter"
           },
           {
             "name": "Value",

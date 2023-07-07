@@ -16,28 +16,43 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Flächeninanspruchnahme",
+                "Flächenversiegelung",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Units"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Nutzungsarten",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Siedlungs- und Verkehrsfläche",
+                "Landwirtschaft",
+                "Gewässer",
+                "Berg-/Tagebau, Grube, Steinbruch",
+                "Wald",
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Nutzungsarten"
+          },
+          {
+            "name": "Siedlungs- und Verkehrsfläche",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Siedlungsfläche Enzkreis [ha]",
+                "Verkehrsfläche Enzkreis [ha]",
+                ""
+              ]
+            },
+            "title": "Siedlungs- und Verkehrsfläche"
           },
           {
             "name": "Value",

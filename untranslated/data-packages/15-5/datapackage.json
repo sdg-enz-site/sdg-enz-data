@@ -15,23 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Schutzgebiete.Wald",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "gruppe.beschaeftigt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Wasser- und Quellschutzgebiete",
+                "Naturpark",
+                "Erholungswald Stufe 2",
+                "Landschaftsschutzgebiet",
+                "Bodenschutz",
+                "Immissionsschutz",
+                "Naturschutzgebiet",
+                "Waldrefugien",
+                "Klimaschutz",
+                "Schonwald",
+                "Sichtschutz",
+                "Naturdenkmal",
+                "Bannwald",
                 ""
               ]
             }

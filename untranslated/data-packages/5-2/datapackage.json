@@ -15,25 +15,26 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Medianeinkommen [€]",
+                "Verdienstabstand [%]",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Einkommensverteilung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Medianeinkommen gesamt",
-                "Medianeinkommen - Männer",
-                "Medianeinkommen - Frauen",
-                "Verdienstabstand Frauen - Männer",
+                "Medianeinkommen - gesamt [€]",
+                "Medianeinkommen - Männer [€]",
+                "Medianeinkommen - Frauen [€]",
+                "Verdienstabstand Frauen und Männer - Enzkreis [%]",
+                "Verdienstabstand Frauen und Männer - Land BW [%]",
                 ""
               ]
             }

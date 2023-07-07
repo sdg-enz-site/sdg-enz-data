@@ -1,61 +1,99 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Units,Region,Fahrzeugart,Value
+2008,Kfz-Zulassungen Enzkreis,,Krafträder,11966
+2009,Kfz-Zulassungen Enzkreis,,Krafträder,12267
+2010,Kfz-Zulassungen Enzkreis,,Krafträder,12606
+2011,Kfz-Zulassungen Enzkreis,,Krafträder,12855
+2012,Kfz-Zulassungen Enzkreis,,Krafträder,13152
+2013,Kfz-Zulassungen Enzkreis,,Krafträder,13452
+2014,Kfz-Zulassungen Enzkreis,,Krafträder,13764
+2015,Kfz-Zulassungen Enzkreis,,Krafträder,14000
+2016,Kfz-Zulassungen Enzkreis,,Krafträder,14250
+2017,Kfz-Zulassungen Enzkreis,,Krafträder,14475
+2018,Kfz-Zulassungen Enzkreis,,Krafträder,14735
+2019,Kfz-Zulassungen Enzkreis,,Krafträder,14861
+2020,Kfz-Zulassungen Enzkreis,,Krafträder,15144
+2021,Kfz-Zulassungen Enzkreis,,Krafträder,15724
+2008,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,110080
+2009,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,110398
+2010,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,111482
+2011,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,113339
+2012,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,115340
+2013,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,116839
+2014,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,118543
+2015,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,120582
+2016,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,122957
+2017,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,125673
+2018,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,127963
+2019,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,130447
+2020,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,132323
+2021,Kfz-Zulassungen Enzkreis,,Personenkraftwagen,134056
+2008,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,103
+2009,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,105
+2010,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,112
+2011,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,115
+2012,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,113
+2013,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,112
+2014,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,107
+2015,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,113
+2016,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,106
+2017,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,121
+2018,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,129
+2019,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,137
+2020,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,144
+2021,Kfz-Zulassungen Enzkreis,,Kraftomnibusse,128
+2008,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,4841
+2009,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,4933
+2010,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,4865
+2011,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,4980
+2012,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5252
+2013,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5380
+2014,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5457
+2015,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5633
+2016,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,5838
+2017,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,6123
+2018,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,6311
+2019,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,6567
+2020,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,6779
+2021,Kfz-Zulassungen Enzkreis,,Lastkraftwagen,7120
+2008,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5795
+2009,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5798
+2010,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5867
+2011,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5929
+2012,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6021
+2013,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6004
+2014,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5974
+2015,Kfz-Zulassungen Enzkreis,,Zugmaschinen,5983
+2016,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6051
+2017,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6158
+2018,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6283
+2019,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6383
+2020,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6425
+2021,Kfz-Zulassungen Enzkreis,,Zugmaschinen,6497
+2008,Kfz je 1.000 Einwohner,Land BW,,634
+2009,Kfz je 1.000 Einwohner,Land BW,,638
+2010,Kfz je 1.000 Einwohner,Land BW,,646
+2011,Kfz je 1.000 Einwohner,Land BW,,655
+2012,Kfz je 1.000 Einwohner,Land BW,,682
+2013,Kfz je 1.000 Einwohner,Land BW,,690
+2014,Kfz je 1.000 Einwohner,Land BW,,700
+2015,Kfz je 1.000 Einwohner,Land BW,,702
+2016,Kfz je 1.000 Einwohner,Land BW,,705
+2017,Kfz je 1.000 Einwohner,Land BW,,715
+2018,Kfz je 1.000 Einwohner,Land BW,,723
+2019,Kfz je 1.000 Einwohner,Land BW,,733
+2020,Kfz je 1.000 Einwohner,Land BW,,744
+2021,Kfz je 1.000 Einwohner,Land BW,,753
+2008,Kfz je 1.000 Einwohner,Enzkreis,,683
+2009,Kfz je 1.000 Einwohner,Enzkreis,,689
+2010,Kfz je 1.000 Einwohner,Enzkreis,,699
+2011,Kfz je 1.000 Einwohner,Enzkreis,,719
+2012,Kfz je 1.000 Einwohner,Enzkreis,,731
+2013,Kfz je 1.000 Einwohner,Enzkreis,,738
+2014,Kfz je 1.000 Einwohner,Enzkreis,,745
+2015,Kfz je 1.000 Einwohner,Enzkreis,,749
+2016,Kfz je 1.000 Einwohner,Enzkreis,,759
+2017,Kfz je 1.000 Einwohner,Enzkreis,,771
+2018,Kfz je 1.000 Einwohner,Enzkreis,,784
+2019,Kfz je 1.000 Einwohner,Enzkreis,,796
+2020,Kfz je 1.000 Einwohner,Enzkreis,,807
+2021,Kfz je 1.000 Einwohner,Enzkreis,,819

@@ -15,23 +15,37 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Kfz-Zulassungen Enzkreis",
+                "Kfz je 1.000 Einwohner",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Land BW",
+                "Enzkreis",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fahrzeugart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Krafträder",
+                "Personenkraftwagen",
+                "Kraftomnibusse",
+                "Lastkraftwagen",
+                "Zugmaschinen",
                 ""
               ]
             }

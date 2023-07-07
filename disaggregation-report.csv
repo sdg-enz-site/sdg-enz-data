@@ -1,15 +1,38 @@
 Disaggregation,Number of indicators,Number of values
+Abfallart,1,6
+Abfallaufkommen,1,2
+Abwasserentsorgung,1,2
+Agenda.2030,1,2
+Alter,1,4
+Art der Bewirtschaftung,1,2
+Aufwendungen.Verschuldung,1,2
 Beschäftigtenanteil,1,1
+Beschäftigung,1,2
+Beschäftigung.Enzkreis,1,8
+Beschäftigungsquote,1,1
+Betreuung,1,3
 Breitbandversorgung,1,1
+Bruttoinlandsprodukt,1,2
+CO2-Emissionen,1,1
+Durchschnittspreise,1,2
+EEQ,1,2
+Eigenmittel.Fördermittel,1,4
+Einkommensklassen,1,3
+Einkommensverteilung,1,5
+Emittenten,3,9
+Engagement,1,1
 Erwerbsaufstocker,1,1
 Existenzgründungen,1,1
+Fahrzeugart,1,5
+Fläche,1,1
+Fragmentierung,1,2
+Geschlecht,1,2
+Geschlechterverhältnis,1,2
 Glasfaserversorgung,1,1
 grupp.armut,1,2
 gruppe.abschluss,1,3
 gruppe.ambulant,1,4
-gruppe.beschaeftigt,48,41
 gruppe.betreuung,1,3
-gruppe.betrieb,1,2
 gruppe.betten,1,1
 gruppe.emittenten,2,7
 gruppe.gesamt,1,1
@@ -23,5 +46,33 @@ gruppe.sektor,1,6
 gruppe.sterbefälle,1,1
 gruppe.stickstoffüberschuss,1,1
 Hochqualifizierte,1,1
-Region,79,4
+Klimaschutzpakt BW,1,1
+Ladesäuleninfrastruktur,1,2
+Landratsamt,1,2
+Landschaftsqualität,1,4
+Langzeitarbeitslosigkeit,1,2
+Mietpreise,1,1
+Nachhaltige Antriebstechniken,1,2
+Neubauaktivität,1,3
+Nutzung,1,2
+Nutzungsarten,1,5
+Politische.Partizipation,1,1
+Preisentwicklung Deutschland,1,1
+Recyclingpapier,1,1
+Region,47,4
+Schadensart,1,2
+Schulabbrecherquote,1,1
+Schutzgebiet,1,5
+Schutzgebiete.Wald,1,13
 Sektor,1,3
+Sektoren,1,4
+Siedlungs- und Verkehrsfläche,1,2
+Steuerpotenzial,1,2
+Straftaten,1,2
+Umsetzungsgrad.WKA,1,2
+Verhältnis,1,3
+Verkehrsmittel,1,5
+Wassergewinnung und -konsum,1,3
+Wiederherstellung.WKA,1,2
+WIN-Charta BW,1,1
+WSG.Umsetzungsgrad,1,3

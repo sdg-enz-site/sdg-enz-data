@@ -15,23 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enzkreis",
-                "Land BW",
+                "Zeichnungskommunen [abs.]",
+                "Zeichnungskommunen  [%]",
                 ""
               ]
             }
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Agenda.2030",
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigungsquote",
-                "Beschäftigungsquote 55 - 64-Jährige",
+                "Zeichnungskommunen der Agenda 2030 im Enzkreis [abs.]",
+                "Zeichnungskommunen der Agenda 2030 im Enzkreis [%]",
                 ""
               ]
             }

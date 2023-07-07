@@ -28,7 +28,7 @@
             "title": "Region"
           },
           {
-            "name": "gruppe.beschaeftigt",
+            "name": "Einkommensklassen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,11 +38,11 @@
                 ""
               ]
             },
-            "title": "gruppe.beschaeftigt"
+            "title": "Einkommensklassen"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

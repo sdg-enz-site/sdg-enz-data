@@ -1,17 +1,17 @@
-Year,Region,gruppe.beschaeftigt,Value
-2012,Enzkreis,EEQ Stromverbrauch [MWh],77918
-2013,Enzkreis,EEQ Stromverbrauch [MWh],100396
-2014,Enzkreis,EEQ Stromverbrauch [MWh],104955
-2015,Enzkreis,EEQ Stromverbrauch [MWh],103447
-2016,Enzkreis,EEQ Stromverbrauch [MWh],97824
-2017,Enzkreis,EEQ Stromverbrauch [MWh],98892
-2018,Enzkreis,EEQ Stromverbrauch [MWh],155029
-2019,Enzkreis,EEQ Stromverbrauch [MWh],177102
-2012,Enzkreis,Anteil EEQ am Stromverbrauch [%],8
-2013,Enzkreis,Anteil EEQ am Stromverbrauch [%],11
-2014,Enzkreis,Anteil EEQ am Stromverbrauch [%],12
-2015,Enzkreis,Anteil EEQ am Stromverbrauch [%],12
-2016,Enzkreis,Anteil EEQ am Stromverbrauch [%],10
-2017,Enzkreis,Anteil EEQ am Stromverbrauch [%],10
-2018,Enzkreis,Anteil EEQ am Stromverbrauch [%],15
-2019,Enzkreis,Anteil EEQ am Stromverbrauch [%],19
+Year,Units,EEQ,Value
+2012,EEQ-Verbrauch [MWh],EEQ Stromverbrauch [MWh],77918
+2013,EEQ-Verbrauch [MWh],EEQ Stromverbrauch [MWh],100396
+2014,EEQ-Verbrauch [MWh],EEQ Stromverbrauch [MWh],104955
+2015,EEQ-Verbrauch [MWh],EEQ Stromverbrauch [MWh],103447
+2016,EEQ-Verbrauch [MWh],EEQ Stromverbrauch [MWh],97824
+2017,EEQ-Verbrauch [MWh],EEQ Stromverbrauch [MWh],98892
+2018,EEQ-Verbrauch [MWh],EEQ Stromverbrauch [MWh],155029
+2019,EEQ-Verbrauch [MWh],EEQ Stromverbrauch [MWh],177102
+2012,EEQ-Anteil [%],Anteil EEQ am Stromverbrauch [%],8
+2013,EEQ-Anteil [%],Anteil EEQ am Stromverbrauch [%],11
+2014,EEQ-Anteil [%],Anteil EEQ am Stromverbrauch [%],12
+2015,EEQ-Anteil [%],Anteil EEQ am Stromverbrauch [%],12
+2016,EEQ-Anteil [%],Anteil EEQ am Stromverbrauch [%],10
+2017,EEQ-Anteil [%],Anteil EEQ am Stromverbrauch [%],10
+2018,EEQ-Anteil [%],Anteil EEQ am Stromverbrauch [%],15
+2019,EEQ-Anteil [%],Anteil EEQ am Stromverbrauch [%],19

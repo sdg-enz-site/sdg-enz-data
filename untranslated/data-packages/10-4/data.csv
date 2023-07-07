@@ -1,61 +1,91 @@
-Year,Region,gruppe.beschaeftigt,Value
-2007,Enzkreis,Beschäftigungsquote,0
-2008,Enzkreis,Beschäftigungsquote,0
-2009,Enzkreis,Beschäftigungsquote,0
-2010,Enzkreis,Beschäftigungsquote,0
-2011,Enzkreis,Beschäftigungsquote,0
-2012,Enzkreis,Beschäftigungsquote,0
-2013,Enzkreis,Beschäftigungsquote,0
-2014,Enzkreis,Beschäftigungsquote,0
-2015,Enzkreis,Beschäftigungsquote,0
-2016,Enzkreis,Beschäftigungsquote,0
-2017,Enzkreis,Beschäftigungsquote,0
-2018,Enzkreis,Beschäftigungsquote,0
-2019,Enzkreis,Beschäftigungsquote,0
-2020,Enzkreis,Beschäftigungsquote,0
-2021,Enzkreis,Beschäftigungsquote,0
-2007,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Enzkreis,Beschäftigungsquote 55 - 64-Jährige,0
-2007,Land BW,Beschäftigungsquote,0
-2008,Land BW,Beschäftigungsquote,0
-2009,Land BW,Beschäftigungsquote,0
-2010,Land BW,Beschäftigungsquote,0
-2011,Land BW,Beschäftigungsquote,0
-2012,Land BW,Beschäftigungsquote,0
-2013,Land BW,Beschäftigungsquote,0
-2014,Land BW,Beschäftigungsquote,0
-2015,Land BW,Beschäftigungsquote,0
-2016,Land BW,Beschäftigungsquote,0
-2017,Land BW,Beschäftigungsquote,0
-2018,Land BW,Beschäftigungsquote,0
-2019,Land BW,Beschäftigungsquote,0
-2020,Land BW,Beschäftigungsquote,0
-2021,Land BW,Beschäftigungsquote,0
-2007,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2008,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2009,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2010,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2011,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2012,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2013,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2014,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2015,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2016,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2017,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2018,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2019,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2020,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
-2021,Land BW,Beschäftigungsquote 55 - 64-Jährige,0
+Year,Units,Geschlecht,Alter,Value
+2007,Anzahl der Personen nach Geschlecht,Frauen,,68
+2008,Anzahl der Personen nach Geschlecht,Frauen,,54
+2009,Anzahl der Personen nach Geschlecht,Frauen,,55
+2010,Anzahl der Personen nach Geschlecht,Frauen,,68
+2011,Anzahl der Personen nach Geschlecht,Frauen,,67
+2012,Anzahl der Personen nach Geschlecht,Frauen,,87
+2013,Anzahl der Personen nach Geschlecht,Frauen,,83
+2014,Anzahl der Personen nach Geschlecht,Frauen,,91
+2015,Anzahl der Personen nach Geschlecht,Frauen,,98
+2016,Anzahl der Personen nach Geschlecht,Frauen,,99
+2017,Anzahl der Personen nach Geschlecht,Frauen,,95
+2018,Anzahl der Personen nach Geschlecht,Frauen,,81
+2019,Anzahl der Personen nach Geschlecht,Frauen,,89
+2020,Anzahl der Personen nach Geschlecht,Frauen,,83
+2021,Anzahl der Personen nach Geschlecht,Frauen,,100
+2007,Anzahl der Personen nach Geschlecht,Männer,,63
+2008,Anzahl der Personen nach Geschlecht,Männer,,49
+2009,Anzahl der Personen nach Geschlecht,Männer,,51
+2010,Anzahl der Personen nach Geschlecht,Männer,,58
+2011,Anzahl der Personen nach Geschlecht,Männer,,52
+2012,Anzahl der Personen nach Geschlecht,Männer,,85
+2013,Anzahl der Personen nach Geschlecht,Männer,,86
+2014,Anzahl der Personen nach Geschlecht,Männer,,72
+2015,Anzahl der Personen nach Geschlecht,Männer,,87
+2016,Anzahl der Personen nach Geschlecht,Männer,,80
+2017,Anzahl der Personen nach Geschlecht,Männer,,70
+2018,Anzahl der Personen nach Geschlecht,Männer,,80
+2019,Anzahl der Personen nach Geschlecht,Männer,,92
+2020,Anzahl der Personen nach Geschlecht,Männer,,82
+2021,Anzahl der Personen nach Geschlecht,Männer,,106
+2007,Anzahl der Personen nach Alter,,Unter 18-Jährige,8
+2008,Anzahl der Personen nach Alter,,Unter 18-Jährige,8
+2009,Anzahl der Personen nach Alter,,Unter 18-Jährige,7
+2010,Anzahl der Personen nach Alter,,Unter 18-Jährige,12
+2011,Anzahl der Personen nach Alter,,Unter 18-Jährige,15
+2012,Anzahl der Personen nach Alter,,Unter 18-Jährige,8
+2013,Anzahl der Personen nach Alter,,Unter 18-Jährige,24
+2014,Anzahl der Personen nach Alter,,Unter 18-Jährige,14
+2015,Anzahl der Personen nach Alter,,Unter 18-Jährige,27
+2016,Anzahl der Personen nach Alter,,Unter 18-Jährige,18
+2017,Anzahl der Personen nach Alter,,Unter 18-Jährige,8
+2018,Anzahl der Personen nach Alter,,Unter 18-Jährige,5
+2019,Anzahl der Personen nach Alter,,Unter 18-Jährige,21
+2020,Anzahl der Personen nach Alter,,Unter 18-Jährige,17
+2021,Anzahl der Personen nach Alter,,Unter 18-Jährige,19
+2007,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,46
+2008,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,42
+2009,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,42
+2010,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,50
+2011,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,51
+2012,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,83
+2013,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,61
+2014,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,60
+2015,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,61
+2016,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,56
+2017,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,50
+2018,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,54
+2019,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,72
+2020,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,72
+2021,Anzahl der Personen nach Alter,,18- bis unter 30-Jährige,65
+2007,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,68
+2008,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,46
+2009,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,53
+2010,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,58
+2011,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,47
+2012,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,65
+2013,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,75
+2014,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,77
+2015,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,76
+2016,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,83
+2017,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,76
+2018,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,77
+2019,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,72
+2020,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,62
+2021,Anzahl der Personen nach Alter,,30- bis unter 50-Jährige,99
+2007,Anzahl der Personen nach Alter,,50-Jährige und älter,9
+2008,Anzahl der Personen nach Alter,,50-Jährige und älter,7
+2009,Anzahl der Personen nach Alter,,50-Jährige und älter,4
+2010,Anzahl der Personen nach Alter,,50-Jährige und älter,6
+2011,Anzahl der Personen nach Alter,,50-Jährige und älter,6
+2012,Anzahl der Personen nach Alter,,50-Jährige und älter,16
+2013,Anzahl der Personen nach Alter,,50-Jährige und älter,9
+2014,Anzahl der Personen nach Alter,,50-Jährige und älter,12
+2015,Anzahl der Personen nach Alter,,50-Jährige und älter,21
+2016,Anzahl der Personen nach Alter,,50-Jährige und älter,22
+2017,Anzahl der Personen nach Alter,,50-Jährige und älter,31
+2018,Anzahl der Personen nach Alter,,50-Jährige und älter,25
+2019,Anzahl der Personen nach Alter,,50-Jährige und älter,16
+2020,Anzahl der Personen nach Alter,,50-Jährige und älter,14
+2021,Anzahl der Personen nach Alter,,50-Jährige und älter,23
