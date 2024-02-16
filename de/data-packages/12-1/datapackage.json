@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gewinnung und Abgabe [1.000 m³]",
+                "Gewinnung und Abgabe - Enzkreis [1.000 m³]",
                 "Täglicher Verbrauch pro Kopf [l]",
                 ""
               ]
